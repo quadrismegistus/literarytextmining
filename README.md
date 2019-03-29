@@ -1,2 +1,72 @@
-# literarytextmining_spring2019
-Course materials for "Literary Text Mining" (English 184E) of Spring 2019
+# English 184E: “Literary Text Mining” (Spring 2019)
+
+## Information
+
+* Time: T/Th 4:30-6:20
+* Location: 240-110
+* Instructor: Ryan Heuser* E-mail: heuser@stanford.edu* Office: Margaret Jacks Hall, Room TBD* Office hours: TBD## DescriptionWhat happens when computers read Shakespeare? What can digital methods tell us about literary language—about how it works, how it evolved, and how it relates to other forms of language? How, for instance, are the rhythms of poetry different from the rhythms of newspapers? What kinds of social networks do plays and novels create? How are female characters in novels described differently than male characters? New techniques in the digital humanities, computational linguistics, and natural language processing make it possible to ask these types of questions of literature. In this course, we will learn how to participate in this exciting new area of interdisciplinary research, while also probing its challenges and limitations.
+This course is an introduction to the theories and methods of computational literary studies. It presumes no background in programming, computer science, or literary criticism. Students will begin with the building blocks of the Python programming language before moving on to more complex analyses of literary texts. Students will learn a variety of ways to discover patterns in textual data, visualize these patterns, and present them as part of a broader literary critical argument.We will progress through several modules of classes, each representing a distinct, and perhaps broader, domain of literary language: from words, to sentence syntax, to narratorial style, to character-spaces, to semantics and thematics, and finally to genres and the broader literary field. At the same time, throughout the course we will read one novel, Karen Yei Tamashita’s Tropic of Orange (1997), which rapidly alternates among narrators, styles, plots, and settings—a formal experimentation we will try to model computationally, while also reflecting on what aspects of the novel elude such methods of analysis.## ObjectivesUpon completing this course, students will be able to:* Distinguish between methods of computational literary studies, and identify the appropriate method for a given literary critical question.* Digitize texts and build corpora appropriate for a given literary critical question.* Program custom literary text analyses with the Python programming language, as well as call upon established tools and algorithms.* Analyze and visualize data to determine its impact on a literary critical question.* Deploy data and visualizations as part of a literary-critical argument.## TextsAll texts for this course will be accessible from Canvas, besides the novel we will read, which you must purchase (at the bookstore or elsewhere):* Karen Tei Yamashita, Tropic of Orange (Minneapolis: Coffee House Press, 1997)
+## AssignmentsHomework due at the beginning of each week will give students ample opportunity to practice the techniques learned in the course. In addition to homework and class participation, students’ grades will be assessed according to two major assignments: a midterm project, done individually, of a single “result” described (and optionally visualized) in a 2-4 page report; and a final project, done collaboratively in groups of 2-3 students, of a 10-12 page essay in which data analysis and visualization play a key argumentative role.* **In-class participation**: This class is part discussion seminar, part lab; it is not a lecture course. The content of the course therefore emerges organically from the interaction between all of us in the room. For this reason, both attendance and participation are required. Participation normally involves contributing spoken comments into the ongoing discussion within each class. If you struggle with this kind of involvement, please email me with your concerns, and we will work together to find a solution. Note: This class has a zero-tolerance policy for any and all forms of disrespect or harassment. You need not agree with anything said in this course, but your disagreement must be articulated with respect.* **Homework assignments**: …* **Midterm report**: …* **Final project and presentation**: …All written work must be double-spaced, in 12-point Times New Roman font, with 1 inch margins, and should conform to MLA citation and formatting conventions. Please refer to the MLA Handbook (8th ed.) and the MLA guide on the Purdue OWL website. Remember that anything that is not of your own invention, whether direct quotes or paraphrases, must be cited. If you have questions about when or how to cite, please contact me.
+## Evaluation| Component | Weight | Due date |
+| --------- | ------ | -------- |
+| In-class participation | 15% | n/a |
+| Practicum assignments | 30 | Mondays at midnight || Midterm data report | 15% | Tues May 7 || Final project and presentation	| 40% | Presentation (group): Tues Jun 4<br/>Write-up (individual): Tues Jun 11|
+## Schedule
+
+Homework assignments (in **bold**) are due the following session unless otherwise noted.### Week 1: Introduction#### (1) Tues Apr 2* Introductions* What is literary text mining? What is possible?* Going over syllabus* Getting set up (bring laptops to class!)* Basics of terminal navigation* Basics of Jupyter notebook
+* **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
+
+#### (2) Thurs Apr 4* Basics of Python programming* Strings, lists, and dictionaries* Corpus creation (ToO example)
+* **To do**: Build your corpus (see assignment)
+* **To practice**: Terminal navigation, Python strings and lists.### Week 2: Words (single text)
+#### (3) Tues Apr 9
+* Review homework* Opening text files* Tokenizing texts* Counting words* Basic text statistics: Type/token ratio* **To read**: *Tropic of Orange*, 25-50 [“Monday,” last 4 chapters]#### (4) Thurs Apr 11
+* Introduction to NLTK* KWIC: Key Word In Context
+* Collocation analysis* Dispersion plots* **To practice**: Calculate TTR and generate dispersion plots for one of your texts.### Week 3: Words (multiple texts)
+#### (5) Tues Apr 16* Loops and control structures* Comparing word counts
+* **To read**: *Tropic of Orange*, 51-84 [“Tuesday”]#### (6) Thurs Apr 18* Most distinctive words
+* Stylometry
+* **To practice**: Find the distinctive words of a text in your corpus### Week 4: Natural Language Processing (NLP)#### (7) Tues Apr 23
+* Part of speech analysis
+* Lemmatizing
+* Sentence syntax* **To read**: *Tropic of Orange*, 85-118 [“Wednesday”]#### (8) Thurs Apr 25* Named Entity Recognition
+* **To do**: [download and install Tableau](https://www.tableau.com/academic/students)
+* **To practice**: Part-of-speech tag your corpus. Which parts of speech distinguish a specific text in your corpus? Which named entities are in your corpus?### Week 5: Visualization#### (9) Tues Apr 30
+* Matplotlib
+* Scatterplots* **To read**: *Tropic of Orange*, 119-150 [“Thursday”]#### (10) Thurs May 2* Tableau
+* Line graphs
+* Geographic visualization
+* **To do**: **MIDTERM DATA REPORT**### Week 6: Social network analysis#### (11) Tues May 7
+* Introduction to social network analysis* NetworkX
+* Draw social media networks* **To read**: *Tropic of Orange*, 151-180 [“Friday”]#### (12) Thurs May 9
+* BookNLP
+* Drawing social networks in texts* **To practice**: Draw social networks for your own corpus### Week 7: Content analysis#### (13) Tues May 14
+* Generating topic models
+* Reading topic models* **To read**: *Tropic of Orange*, 181-208 [“Saturday”]#### (14) Thurs May 16* Visualizing topic models* **To practice**: Topic model your corpus and write a brief discussion of two topics### Week 8: Clustering#### (15) Tues May 21
+* Hierarchical clustering
+* Kmeans clustering* **To read**: *Tropic of Orange*, 209-230 [“Sunday”]#### (16) Thurs May 23* PCA and multivariate analysis
+* Color by cluster
+* **To practice**: Make a PCA or cluster visualization of your corpus### Week 9: Classification (machine learning)#### (17) Tues May 28
+* General classification framework
+* Logistic regression
+* **To practice**: Classify a type of text in your corpus#### (18) Thurs May 30
+* Classification continued* Presentation preparation### Week 10: Presentations!#### (19) Tues June 4
+* Final project presentations!## Appendix
+
+### Students with Documented Disabilities 
+Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE).  Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations.
+
+OAE contact information: <br/>563 Salvatierra Walk
+<br/>650-723-1066
+<br/>[http://studentaffairs.stanford.edu/oae](http://studentaffairs.stanford.edu/oae)
+ 
+### Honor Code 
+The Honor Code is the University's statement on academic integrity written by students in 1921. It articulates University expectations of students and faculty in establishing and maintaining the highest standards in academic work: 
+The Honor Code is an undertaking of the students, individually and collectively:
+
+1.	that they will not give or receive aid in examinations; that they will not give or receive unpermitted aid in class work, in the preparation of reports, or in any other work that is to be used by the instructor as the basis of grading;
+2.	that they will do their share and take an active part in seeing to it that others as well as themselves uphold the spirit and letter of the Honor Code.
+
+The faculty on its part manifests its confidence in the honor of its students by refraining from proctoring examinations and from taking unusual and unreasonable precautions to prevent the forms of dishonesty mentioned above. The faculty will also avoid, as far as practicable, academic procedures that create temptations to violate the Honor Code. 
+While the faculty alone has the right and obligation to set academic requirements, the students and faculty will work together to establish optimal conditions for honorable academic work.
+
