@@ -26,11 +26,27 @@ Abbreviations:
 
 * *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
-|Week|Class|Date|Content modules|Due this day|
-|----|-----|----|---------------|------------|
-|1|1|Tues Apr 2 |(1A) Class introduction<br/>(1B) Installation</br>(1C) The Terminal|--|
-|1|2|Thurs Apr 4 |(1D) Jupyter Lab<br/>(2A) Baby Python|Read: *ToO*, 7-25 [“Monday," ch. 1-7]|
-|1|2|Tues Apr 9 |(1D) Jupyter Lab<br/>(2A) Baby Python|Read: *ToO*, 7-25 [“Monday," ch. 1-7]|
+| Week | Class | Day | Date   | Topic        | Class modules                                                 | Due this day                             |
+|------|-------|-----|--------|--------------|---------------------------------------------------------------|------------------------------------------|
+| 1    | 1     | T   | 2-Apr  | Introduction | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
+|      | 2     | Th  | 4-Apr  | Corpora      | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
+| 2    | 3     | T   | 9-Apr  | Python       | (2A) Jupyter Lab; (2B) Baby Python                            | Practicum: (2B) Building your own corpus |
+|      | 4     | Th  | 11-Apr |              | (2C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
+| 3    | 5     | T   | 16-Apr | Words        |                                                               |                                          |
+|      | 6     | Th  | 18-Apr |              |                                                               |                                          |
+| 4    | 7     | T   | 23-Apr |              |                                                               |                                          |
+|      | 8     | Th  | 25-Apr |              |                                                               |                                          |
+| 5    | 9     | T   | 30-Apr |              |                                                               |                                          |
+|      | 10    | Th  | 2-May  |              |                                                               |                                          |
+| 6    | 11    | T   | 7-May  |              |                                                               |                                          |
+|      | 12    | Th  | 9-May  |              |                                                               |                                          |
+| 7    | 13    | T   | 14-May |              |                                                               |                                          |
+|      | 14    | Th  | 16-May |              |                                                               |                                          |
+| 8    | 15    | T   | 14-May |              |                                                               |                                          |
+|      | 16    | Th  | 16-May |              |                                                               |                                          |
+| 9    | 17    | T   | 14-May |              |                                                               |                                          |
+|      | 18    | Th  | 16-May |              |                                                               |                                          |
+| 10   | 19    | T   | 14-May |              |                                                               |                                          |
 
 ## Content
 
@@ -40,22 +56,38 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Clone class repository
 
 
-#### (1C) The Terminal
-* [Basics of terminal navigation](01_setup/01C_the_terminal.md)
+#### (1C) [The Terminal](01_setup/01C_the_terminal.md)
 
-#### (1D) Jupyter Lab
+* Learn the basics of terminal navigation
+* Learn how to read and write files from the terminal
 
-* [Introduction to Jupyter Lab](01_setup/01D_jupyter_lab.md)
 
-### (2) Python
-#### (2A) Baby Python
+### (2) Corpora
+
+#### (2A) Install *Tropic of Orange* corpus
+
+
+
+
+
+
+### (3) Python
+
+#### (3A) [Jupyter Lab](01_setup/02A_jupyter_lab.md)
+
+* [Introduction to Jupyter Lab](01_setup/02A_jupyter_lab.md)
+#### (3B) Baby Python
 
 * "Hello world"
 * Integers
 * Strings
 * Variables
 
-#### (2B) Lists and dictionaries
+#### (3C) Lists and dictionaries
+
+
+
+
 
 * Basics of Jupyter notebook
 * **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
