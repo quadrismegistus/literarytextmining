@@ -9,30 +9,11 @@
 ## AssignmentsHomework due at the beginning of each week will give students ample opportunity to practice the techniques learned in the course. In addition to homework and class participation, students’ grades will be assessed according to two major assignments: a midterm project, done individually, of a single “result” described (and optionally visualized) in a 2-4 page report; and a final project, done collaboratively in groups of 2-3 students, of a 10-12 page essay in which data analysis and visualization play a key argumentative role.* **In-class participation**: This class is part discussion seminar, part lab; it is not a lecture course. The content of the course therefore emerges organically from the interaction between all of us in the room. For this reason, both attendance and participation are required. Participation normally involves contributing spoken comments into the ongoing discussion within each class. If you struggle with this kind of involvement, please email me with your concerns, and we will work together to find a solution. Note: This class has a zero-tolerance policy for any and all forms of disrespect or harassment. You need not agree with anything said in this course, but your disagreement must be articulated with respect.* **Homework assignments**: …* **Midterm report**: …* **Final project and presentation**: …All written work must be double-spaced, in 12-point Times New Roman font, with 1 inch margins, and should conform to MLA citation and formatting conventions. Please refer to the MLA Handbook (8th ed.) and the MLA guide on the Purdue OWL website. Remember that anything that is not of your own invention, whether direct quotes or paraphrases, must be cited. If you have questions about when or how to cite, please contact me.
 ## Evaluation| Component | Weight | Due date |
 | --------- | ------ | -------- |
-| Practicum assignments | 20% | Mondays at midnight || Midterm data report (1-2 pages with 1-2 figures)| 20% | Tues May 7 || Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
-| Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
-| Class participation | 10% | n/a |
-| Class project presentation (building from our classwork on Karen Tei Yamashita's *Tropic of Orange*; presenters delegated) | 10%* (evaluated by Stanford Literary Lab postdocs) | Tues Jun 4
+| In-class participation | 15% | n/a |
+| Practicum assignments | 30% | Mondays at midnight || Midterm data report | 15% | Tues May 7 || Final project and presentation	| 40% | Presentation (group): Tues Jun 4<br/>Write-up (individual): Tues Jun 11|
+## Schedule
 
-
-## Schedule
-
-|Week|Class|Date|Content modules|Due this day|
-|----|-----|----|---------------|------------|
-|1|1|Tues Apr 2 |1A (Class introduction)<br/>1B (Installation)|--|
-|1|1|Thurs Apr 2 |1 (Getting setup)|--|
-## Content
-
-Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus### (1B) Installation
-* [Install Anaconda and clone class repository](01A_setup/installation_instructions.md)
-
-### (1C) The Terminal
-* Basics of terminal navigation
-
-### (1D) Jupyter
-
-
-### (2) Python* Basics of Jupyter notebook
+Homework assignments (in **bold**) are due the following session unless otherwise noted.### Week 1: Introduction#### (1) Tues Apr 2* Introductions* What is literary text mining? What is possible?* Going over syllabus* Getting set up (bring laptops to class!)* Basics of terminal navigation* Basics of Jupyter notebook
 * **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
 
 #### (2) Thurs Apr 4* Basics of Python programming* Strings, lists, and dictionaries* Corpus creation (*ToO* example)
