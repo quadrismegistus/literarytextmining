@@ -26,27 +26,27 @@ Abbreviations:
 
 * *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
-| Week | Class | Day | Date   | Topic        | Class modules                                                 | Due this day                             |
-|------|-------|-----|--------|--------------|---------------------------------------------------------------|------------------------------------------|
-| 1    | 1     | T   | 2-Apr  | Introduction | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
-|      | 2     | Th  | 4-Apr  | Corpora      | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
-| 2    | 3     | T   | 9-Apr  | Python       | (2A) Jupyter Lab; (2B) Baby Python                            | Practicum: (2B) Building your own corpus |
-|      | 4     | Th  | 11-Apr |              | (2C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
-| 3    | 5     | T   | 16-Apr | Words        |                                                               |                                          |
-|      | 6     | Th  | 18-Apr |              |                                                               |                                          |
-| 4    | 7     | T   | 23-Apr |              |                                                               |                                          |
-|      | 8     | Th  | 25-Apr |              |                                                               |                                          |
-| 5    | 9     | T   | 30-Apr |              |                                                               |                                          |
-|      | 10    | Th  | 2-May  |              |                                                               |                                          |
-| 6    | 11    | T   | 7-May  |              |                                                               |                                          |
-|      | 12    | Th  | 9-May  |              |                                                               |                                          |
-| 7    | 13    | T   | 14-May |              |                                                               |                                          |
-|      | 14    | Th  | 16-May |              |                                                               |                                          |
-| 8    | 15    | T   | 14-May |              |                                                               |                                          |
-|      | 16    | Th  | 16-May |              |                                                               |                                          |
-| 9    | 17    | T   | 14-May |              |                                                               |                                          |
-|      | 18    | Th  | 16-May |              |                                                               |                                          |
-| 10   | 19    | T   | 14-May |              |                                                               |                                          |
+| Week | Class | Day | Date | Topic        | Class modules                                                 | Due this day                             |
+|------|-------|-----|------|--------------|---------------------------------------------------------------|------------------------------------------|
+| 1    | 1     | T   | 4/2  | Introduction | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
+|      | 2     | Th  | 4/4  | Corpora      | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
+| 2    | 3     | T   | 4/9  | Python       | (2A) Jupyter Lab; (2B) Baby Python                            | Practicum: (2B) Building your own corpus |
+|      | 4     | Th  | 4/11 |              | (2C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
+| 3    | 5     | T   | 4/16 | Words        |                                                               |                                          |
+|      | 6     | Th  | 4/18 |              |                                                               |                                          |
+| 4    | 7     | T   | 4/23 |              |                                                               |                                          |
+|      | 8     | Th  | 4/25 |              |                                                               |                                          |
+| 5    | 9     | T   | 4/30 |              |                                                               |                                          |
+|      | 10    | Th  | 5/2  |              |                                                               |                                          |
+| 6    | 11    | T   | 5/7  |              |                                                               |                                          |
+|      | 12    | Th  | 5/9  |              |                                                               |                                          |
+| 7    | 13    | T   | 5/14 |              |                                                               |                                          |
+|      | 14    | Th  | 5/16 |              |                                                               |                                          |
+| 8    | 15    | T   | 5/21 |              |                                                               |                                          |
+|      | 16    | Th  | 5/23 |              |                                                               |                                          |
+| 9    | 17    | T   | 5/28 |              |                                                               |                                          |
+|      | 18    | Th  | 5/30 |              |                                                               |                                          |
+| 10   | 19    | T   | 6/4  |              |                                                               |                                          |
 
 ## Content
 
