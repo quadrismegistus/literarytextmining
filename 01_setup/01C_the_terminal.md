@@ -1,8 +1,8 @@
 # The Terminal
 
-## History
+## Introduction
 
-...
+Before the Graphical User Interfaces (GUI) of the present day, the "terminal" is how a human interacted with the digital computer. First developed in Berlin in 1941, terminals remained the dominant interface system until GUIs became more popular in the 1980s and 90s. Microsoft, for example, released its graphic "Windows" operating system in 1981, following its earlier "MS-DOS."
 
 ## Setting up the Terminal
 

@@ -12,15 +12,26 @@
 | Practicum assignments | 20% | Mondays at midnight || Midterm data report (1-2 pages with 1-2 figures)| 20% | Tues May 7 || Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
 | Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
 | Class participation | 10% | n/a |
-| Class project presentation (building from our classwork on Karen Tei Yamashita's *Tropic of Orange*; presenters delegated) | 10%* (evaluated by Stanford Literary Lab postdocs) | Tues Jun 4
+| Class project presentation**| 10%*** | Tues Jun 4
 
+** The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
+
+***  As evaluated by the current postdocs of the Stanford Literary Lab.
 
 ## Schedule
 
+This schedule is subject to change.
+
+Abbreviations:
+
+* *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
+
 |Week|Class|Date|Content modules|Due this day|
 |----|-----|----|---------------|------------|
-|1|1|Tues Apr 2 |1A (Class introduction)<br/>1B (Installation)|--|
-|1|1|Thurs Apr 2 |1 (Getting setup)|--|
+|1|1|Tues Apr 2 |(1A) Class introduction<br/>(1B) Installation</br>(1C) The Terminal|--|
+|1|2|Thurs Apr 4 |(1D) Jupyter Lab<br/>(2A) Baby Python|Read: *ToO*, 7-25 [“Monday," ch. 1-7]|
+|1|2|Tues Apr 9 |(1D) Jupyter Lab<br/>(2A) Baby Python|Read: *ToO*, 7-25 [“Monday," ch. 1-7]|
+
 ## Content
 
 Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus#### (1B) [Installation](01A_setup/01B_installation_instructions.md)
@@ -37,9 +48,14 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * [Introduction to Jupyter Lab](01_setup/01D_jupyter_lab.md)
 
 ### (2) Python
-#### (2A) "Hello world"
+#### (2A) Baby Python
 
+* "Hello world"
+* Integers
+* Strings
+* Variables
 
+#### (2B) Lists and dictionaries
 
 * Basics of Jupyter notebook
 * **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
