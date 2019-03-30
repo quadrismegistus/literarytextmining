@@ -221,4 +221,4 @@ For a more in-depth introduction to grep, [see here](https://opensourceforu.com/
 
 ## Practicum
 
-[See here for the practicum for this module](01_setup/01C_the_terminal_TODO/README.md).
+[See here for the practicum for this module](01C_the_terminal_TODO/README.md).
