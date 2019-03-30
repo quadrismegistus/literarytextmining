@@ -15,7 +15,7 @@ These games were popular in the late 1970s and 1980s. Today's practicum is writt
 First, enter the folder of the mazes:
 
 ```
-cd ~/literarytextmining/01_setup/01C_TODO_the_terminal
+cd ~/literarytextmining/01_setup/01C_the_terminal_TODO
 ```
 
 ### Assignment
@@ -37,7 +37,7 @@ Let's enter the first maze.
 
 ```
 # enter the folder of the mazes
-cd ~/literarytextmining/01_setup/01C_TODO_the_terminal
+cd ~/literarytextmining/01_setup/01C_the_terminal_TODO
 
 # enter maze 1
 cd maze1
@@ -73,7 +73,7 @@ pwd
 This should return something like:
 
 ```
-/Users/ryan/literarytextmining/01_setup/01C_TODO_the_terminal/maze1/door1
+/Users/ryan/literarytextmining/01_setup/01C_the_terminal_TODO/maze1/door1
 ```
 
 Great: we're inside the first door of the first maze (`.../maze1/door1`). Now, how do we go back "up" again?
@@ -122,7 +122,7 @@ A sleeping cat! Probably because this maze was so easy. Try two harder ones on y
 
 ### Maze 2
 
-Try on your own during class. Ask for help if you need it.
+Try on your own during class. Ask for help if you need it. To start:
 
 ### Maze 3
 
