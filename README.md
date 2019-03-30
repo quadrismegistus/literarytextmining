@@ -11,8 +11,8 @@
 | --------- | ------ | -------- |
 | Practicum assignments | 20% | Mondays at midnight || Midterm data report (1-2 pages with 1-2 figures)| 20% | Tues May 7 || Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
 | Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
-| Class participation | 10% | n/a |
-| Class project presentation**| 10%*** | Tues Jun 4
+| Class participation | 15% | n/a |
+| Class project presentation**| 5%*** | Tues Jun 4
 
 ** The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
 
