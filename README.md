@@ -26,28 +26,27 @@ Abbreviations:
 
 * *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
-| Week | Class | Day | Date | Topic                           | Class modules                                                 | Due this day                             |
-|------|-------|-----|------|---------------------------------|---------------------------------------------------------------|------------------------------------------|
-| 1    | 1     | T   | 4/2  | (1) Introduction                | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
-|      | 2     | Th  | 4/4  | (2) Corpora                     | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
-| 2    | 3     | T   | 4/9  | (3) Python                      | (3A) Jupyter Lab; (3B) Baby Python                            | Practicum: (2B) Building your own corpus |
-|      | 4     | Th  | 4/11 |                                 | (3C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
-| 3    | 5     | T   | 4/16 | (4) Text Mining 101             | (4A) Reading text files; (4B) Tokenizing                      |                                          |
-|      | 6     | Th  | 4/18 |                                 | (4C) Counting words                                           | Read: ToO, 51-84 [“Tuesday"]             |
-| 4    | 7     | T   | 4/23 | (5) Mining Texts                | (5A) Linguistic diversity                                     |                                          |
-|      | 8     | Th  | 4/25 |                                 | (5B) Key Word In Context; (5C) Dispersion plots               | Read: ToO, 85-118 [“Wednesday”]          |
-| 5    | 9     | T   | 4/30 | (6) Mining Corpora              | (6A) Loops and control structures; (6B) Comparing word counts |                                          |
-|      | 10    | Th  | 5/2  |                                 | (6C) Most distinctive words                                   | Read: ToO, 119-150 [“Thursday”]          |
-| 6    | 11    | T   | 5/7  | (7) Visualization               | (7A) Matplotlib                                               |                                          |
-|      | 12    | Th  | 5/9  |                                 | (7B) Tableau                                                  | Read: ToO, 151-180 [“Friday”]            |
-| 7    | 13    | T   | 5/14 | (8) Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition    |                                          |
-|      | 14    | Th  | 5/16 | (9) Literary Geography          | (9A) Making a gazetteer; (9B) Mapping Place Names             | Read: ToO, 181-208 [“Saturday”]          |
-| 8    | 15    | T   | 5/21 | (10) Social Network Analysis    | (10A) NetworkX; (10B) Social Media Networks                   |                                          |
-|      | 16    | Th  | 5/23 |                                 | (10C) Social Networks in Literature                           | Read: ToO, 209-230 [“Sunday”]            |
-| 9    | 17    | T   | 5/28 | (11) Content analysis           | (11A) Topic modeling                                          |                                          |
-|      | 18    | Th  | 5/30 | (12) Clustering                 | (12A) PCA; (12B) Hclust                                       |                                          |
-| 10   | 19    | T   | 6/4  | Presentations!                  |                                                               |                                          |
-## Content
+| Week | Class | Day | Date | Topic                       | Class modules                                                 | Practicum due                            | Reading due                     |
+|------|-------|-----|------|-----------------------------|---------------------------------------------------------------|------------------------------------------|---------------------------------|
+| 1    | 1     | T   | 4/2  | Introduction                | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |                                 |
+|      | 2     | Th  | 4/4  | Corpora                     | (2A) Building corpora                                         | (1C) The Terminal                        | ToO, 7-25 [“Monday," ch. 1-3]   |
+| 2    | 3     | T   | 4/9  | Python                      | (3A) Jupyter Lab; (3B) Baby Python                            | (2A) Building corpora                    |                                 |
+|      | 4     | Th  | 4/11 |                             | (3C) Lists and dictionaries                                   | (3B) Baby Python                         | ToO, 25-50 [“Monday," ch. 4-7]  |
+| 3    | 5     | T   | 4/16 | Words (single text)         | (4A) Reading text files; (4B) Tokenizing                      | (3C) Lists and dictionaries              |                                 |
+|      | 6     | Th  | 4/18 |                             | (4C) Counting words                                           | (4A) Reading text files; (4B) Tokenizing | Read: ToO, 51-84 [“Tuesday"]    |
+| 4    | 7     | T   | 4/23 |                             | (4D) Collocations                                             | (4C) Counting words                      |                                 |
+|      | 8     | Th  | 4/25 | Words (corpus)              | (6A) Loops and control structures                             | (4D) Collocations                        | Read: ToO, 85-118 [“Wednesday”] |
+| 5    | 9     | T   | 4/30 |                             | (6B) Introduction to Pandas                                   | (6A) Loops and control structures        |                                 |
+|      | 10    | Th  | 5/2  | Visualization               | (7A) Tableau                                                  |                                          | Read: ToO, 119-150 [“Thursday”] |
+| 6    | 11    | T   | 5/7  | Distinctive words           | (6D) Most distinctive words                                   | Midterm: data report                     |                                 |
+|      | 12    | Th  | 5/9  | Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition    |                                          | Read: ToO, 151-180 [“Friday”]   |
+| 7    | 13    | T   | 5/14 | Literary Geography          | (9A) Making a gazetteer; (9B) Mapping Place Names             |                                          |                                 |
+|      | 14    | Th  | 5/16 | Social Network Analysis     | (10A) NetworkX; (10B) Social Media Networks                   |                                          | Read: ToO, 181-208 [“Saturday”] |
+| 8    | 15    | T   | 5/21 |                             | (10C) BookNLP; (10D) Social Networks in Literature            |                                          |                                 |
+|      | 16    | Th  | 5/23 | Content Analysis            | Generating Topic Models                                       | Read: ToO, 209-230 [“Sunday”]            |                                 |
+| 9    | 17    | T   | 5/28 | Clustering                  | Hclust and Kmeans                                             |                                          |                                 |
+|      | 18    | Th  | 5/30 |                             | PCA                                                           |                                          |                                 |
+| 10   | 19    | T   | 6/4  | Presentations!              |                                                               |                                          |                                 |## Content
 
 Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus#### (1B) [Installation](01A_setup/01B_installation_instructions.md)
 * Install Anaconda, NLTK, and spaCy
