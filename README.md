@@ -23,16 +23,25 @@
 |1|1|Thurs Apr 2 |1 (Getting setup)|--|
 ## Content
 
-Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus### (1B) Installation
-* [Install Anaconda and clone class repository](01A_setup/installation_instructions.md)
-
-### (1C) The Terminal
-* Basics of terminal navigation
-
-### (1D) Jupyter
+Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus#### (1B) [Installation](01A_setup/01B_installation_instructions.md)
+* Install Anaconda, NLTK, and spaCy
+* Install git
+* Clone class repository
 
 
-### (2) Python* Basics of Jupyter notebook
+#### (1C) The Terminal
+* [Basics of terminal navigation](01_setup/01C_the_terminal.md)
+
+#### (1D) Jupyter Lab
+
+* [Introduction to Jupyter Lab](01_setup/01D_jupyter_lab.md)
+
+### (2) Python
+#### (2A) "Hello world"
+
+
+
+* Basics of Jupyter notebook
 * **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
 
 #### (2) Thurs Apr 4* Basics of Python programming* Strings, lists, and dictionaries* Corpus creation (*ToO* example)
