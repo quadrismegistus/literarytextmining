@@ -26,28 +26,27 @@ Abbreviations:
 
 * *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
-| Week | Class | Day | Date | Topic        | Class modules                                                 | Due this day                             |
-|------|-------|-----|------|--------------|---------------------------------------------------------------|------------------------------------------|
-| 1    | 1     | T   | 4/2  | Introduction | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
-|      | 2     | Th  | 4/4  | Corpora      | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
-| 2    | 3     | T   | 4/9  | Python       | (2A) Jupyter Lab; (2B) Baby Python                            | Practicum: (2B) Building your own corpus |
-|      | 4     | Th  | 4/11 |              | (2C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
-| 3    | 5     | T   | 4/16 | Words        |                                                               |                                          |
-|      | 6     | Th  | 4/18 |              |                                                               |                                          |
-| 4    | 7     | T   | 4/23 |              |                                                               |                                          |
-|      | 8     | Th  | 4/25 |              |                                                               |                                          |
-| 5    | 9     | T   | 4/30 |              |                                                               |                                          |
-|      | 10    | Th  | 5/2  |              |                                                               |                                          |
-| 6    | 11    | T   | 5/7  |              |                                                               |                                          |
-|      | 12    | Th  | 5/9  |              |                                                               |                                          |
-| 7    | 13    | T   | 5/14 |              |                                                               |                                          |
-|      | 14    | Th  | 5/16 |              |                                                               |                                          |
-| 8    | 15    | T   | 5/21 |              |                                                               |                                          |
-|      | 16    | Th  | 5/23 |              |                                                               |                                          |
-| 9    | 17    | T   | 5/28 |              |                                                               |                                          |
-|      | 18    | Th  | 5/30 |              |                                                               |                                          |
-| 10   | 19    | T   | 6/4  |              |                                                               |                                          |
-
+| Week | Class | Day | Date | Topic                           | Class modules                                                 | Due this day                             |
+|------|-------|-----|------|---------------------------------|---------------------------------------------------------------|------------------------------------------|
+| 1    | 1     | T   | 4/2  | (1) Introduction                | (1A) Class introduction; (1B) Installation; (1C) The Terminal |                                          |
+|      | 2     | Th  | 4/4  | (2) Corpora                     | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
+| 2    | 3     | T   | 4/9  | (3) Python                      | (3A) Jupyter Lab; (3B) Baby Python                            | Practicum: (2B) Building your own corpus |
+|      | 4     | Th  | 4/11 |                                 | (3C) Lists and dictionaries                                   | Read: ToO, 25-50 [“Monday," ch. 4-7]     |
+| 3    | 5     | T   | 4/16 | (4) Text Mining 101             | (4A) Reading text files; (4B) Tokenizing                      |                                          |
+|      | 6     | Th  | 4/18 |                                 | (4C) Counting words                                           | Read: ToO, 51-84 [“Tuesday"]             |
+| 4    | 7     | T   | 4/23 | (5) Mining Texts                | (5A) Linguistic diversity                                     |                                          |
+|      | 8     | Th  | 4/25 |                                 | (5B) Key Word In Context; (5C) Dispersion plots               | Read: ToO, 85-118 [“Wednesday”]          |
+| 5    | 9     | T   | 4/30 | (6) Mining Corpora              | (6A) Loops and control structures; (6B) Comparing word counts |                                          |
+|      | 10    | Th  | 5/2  |                                 | (6C) Most distinctive words                                   | Read: ToO, 119-150 [“Thursday”]          |
+| 6    | 11    | T   | 5/7  | (7) Visualization               | (7A) Matplotlib                                               |                                          |
+|      | 12    | Th  | 5/9  |                                 | (7B) Tableau                                                  | Read: ToO, 151-180 [“Friday”]            |
+| 7    | 13    | T   | 5/14 | (8) Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition    |                                          |
+|      | 14    | Th  | 5/16 | (9) Literary Geography          | (9A) Making a gazetteer; (9B) Mapping Place Names             | Read: ToO, 181-208 [“Saturday”]          |
+| 8    | 15    | T   | 5/21 | (10) Social Network Analysis    | (10A) NetworkX; (10B) Social Media Networks                   |                                          |
+|      | 16    | Th  | 5/23 |                                 | (10C) Social Networks in Literature                           | Read: ToO, 209-230 [“Sunday”]            |
+| 9    | 17    | T   | 5/28 | (11) Content analysis           | (11A) Topic modeling                                          |                                          |
+|      | 18    | Th  | 5/30 | (12) Clustering                 | (12A) PCA; (12B) Hclust                                       |                                          |
+| 10   | 19    | T   | 6/4  | Presentations!                  |                                                               |                                          |
 ## Content
 
 Homework assignments (in **bold**) are due the following session unless otherwise noted.### (1) Setup#### (1A) Class introductions* Introductions* What is literary text mining? What is possible?* Going over syllabus#### (1B) [Installation](01A_setup/01B_installation_instructions.md)
@@ -64,47 +63,69 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (2) Corpora
 
-#### (2A) Install *Tropic of Orange* corpus
+#### (2A) Introduction to corpora
 
-
-
+#### (2B) Building your own corpus
 
 
 
 ### (3) Python
 
-#### (3A) [Jupyter Lab](01_setup/02A_jupyter_lab.md)
+#### (3A) [Jupyter Lab](03_python/03A_jupyter_lab.md)
 
-* [Introduction to Jupyter Lab](01_setup/02A_jupyter_lab.md)
-#### (3B) Baby Python
+#### (3A) [Baby Python](03_python/03B_baby_python.ipynb)
 
 * "Hello world"
 * Integers
 * Strings
 * Variables
 
-#### (3C) Lists and dictionaries
+#### (3C) [Lists and dictionaries](03_python/03C_lists_and_dictionaries.ipynb)
+
+* Lists
+* Dictionaries
 
 
+### (4) Intro to Text Mining
+
+#### (4A) Reading text files
+
+* Open text
+* String slice text
+
+#### (4B) Tokenizing
+
+* Splitting texts into words (text as string -> text as list)
+* Tokenizers
+
+#### (4C) Counting words
+
+* Counting words (text as list -> word counts as dictionary)
 
 
+### (5) Mining Individual Texts
 
-* Basics of Jupyter notebook
-* **To read**: *Tropic of Orange*, 7-25 [“Monday,” first 3 chapters]
+#### (5A) Linguistic diversity
 
-#### (2) Thurs Apr 4* Basics of Python programming* Strings, lists, and dictionaries* Corpus creation (*ToO* example)
-* **To do**: Build your corpus (see assignment)
-* **To practice**: Terminal navigation, Python strings and lists.### Week 2: Words (single text)
-#### (3) Tues Apr 9
-* Review homework* Opening text files* Tokenizing texts* Counting words* Basic text statistics: Type/token ratio* **To read**: *Tropic of Orange*, 25-50 [“Monday,” last 4 chapters]#### (4) Thurs Apr 11
-* Introduction to NLTK* KWIC: Key Word In Context
-* Collocation analysis* Dispersion plots* **To practice**: Calculate TTR and generate dispersion plots for one of your texts.### Week 3: Words (multiple texts)
-#### (5) Tues Apr 16* Loops and control structures* Comparing word counts
-* **To read**: *Tropic of Orange*, 51-84 [“Tuesday”]#### (6) Thurs Apr 18* Most distinctive words
+* Number of words (list of tokens)
+* Number of unique words (set of types)
+* Type/token ratio
+
+#### (5B) Key Word In Context (KWIC)
+
+#### (5C) Dispersion plots
+
+
+### (6) Mining Corpora
+
+#### (6A) Loops and control structures
+
+#### (6B) Comparing word counts#### (6C) Most distinctive words* Most distinctive words
 * Stylometry
-* **To practice**: Find the distinctive words of a text in your corpus### Week 4: Natural Language Processing (NLP)#### (7) Tues Apr 23
+* **To practice**: Find the distinctive words of a text in your corpus### (7) Natural language processing
 * Part of speech analysis
 * Lemmatizing
+
 * Sentence syntax* **To read**: *Tropic of Orange*, 85-118 [“Wednesday”]#### (8) Thurs Apr 25* Named Entity Recognition
 * **To do**: [download and install Tableau](https://www.tableau.com/academic/students)
 * **To practice**: Part-of-speech tag your corpus. Which parts of speech distinguish a specific text in your corpus? Which named entities are in your corpus?### Week 5: Visualization#### (9) Tues Apr 30

@@ -1,4 +1,4 @@
-# The Terminal
+# (1C) The Terminal
 
 ## Introduction
 
@@ -61,10 +61,17 @@ pwd       # print working directory
 
 We should now be at the **"root" directory**, the directory that contains all other directories, which is known as: ```/```
 
-Let's now move directly to our class repository folder, which we [installed in module (1B)](https://github.com/quadrismegistus/literarytextmining_spring2019/blob/master/01_setup/01A_installation_instructions.md#2-clone-class-repository):
+To review, here are a few magic names for folders:
+
+* `~`: your home folder
+* `..`: the folder above the one we're in now
+* `.`: the folder we're in right now
+* `/`: the root folder of the entire file system
+
+But let's stop using these magic names and go to a normal, named folder. Let's now move directly to our class repository folder, which we [installed in module (1B)](https://github.com/quadrismegistus/literarytextmining_spring2019/blob/master/01_setup/01A_installation_instructions.md#2-clone-class-repository):
 
 ```
-cd ~/literarytextmining_spring2019
+cd ~/literarytextmining
 ```
 
 Great! (Hacker voice: "We're in.") But what's in there?
@@ -75,31 +82,32 @@ Great! (Hacker voice: "We're in.") But what's in there?
 But how do we know what's in a directory? Using "ls."
 
 ```
-cd        # go to your home folder (e.g. /Users/ryan)
-pwd       # check we're in the home folder
-ls        # list contents of home folder
+cd ~/literarytextmining    # go to our class folder
+ls                         # list contents of home folder
 ```
 
-You should see the filenames of every file in your home directory. They are likely in multiple columns, depending on the size of the Terminal window. To display in more detail:
+You should see the filenames of every file in our course folder. To display in more detail:
 
 ```
 ls -l     # list contents of home folder in more detail
 ```
 
-You should see a bunch of stuff printed out. Here's an example set of four lines:
+You should see something like this:
 
 ```
-drwx------+    4 ryan  staff        128 Mar 29 18:16 Desktop
-drwxr-xr-x+  236 ryan  staff       7552 Feb  8 16:08 Documents
-drwxr-xr-x+  439 ryan  staff      14048 Mar 29 18:10 Downloads
-drwx------@   11 ryan  staff        352 Dec  7 20:49 Dropbox
+total 104
+drwxr-xr-x@ 4 ryan  staff    128 Mar 30 09:41 01_setup
+-rw-r--r--@ 1 ryan  staff  15129 Mar 29 23:29 README.md
+drwxr-xr-x@ 3 ryan  staff     96 Mar 30 00:13 alternate_syllabi
+drwxr-xr-x@ 3 ryan  staff     96 Mar 29 16:17 corpora
+-rw-r--r--@ 1 ryan  staff  36352 Mar 30 00:10 schedule.xls
 ```
 
 These represent ([source](https://unix.stackexchange.com/a/140944)):
 
 ```
-drwx------+    4    ryan  staff  128    Mar 29 18:16 Desktop
-?UUUGGGOOOS   00  UUUUUU GGGGGG ####    ^-- date stamp and file name are obvious ;-)
+-rw-r--r--@    1    ryan  staff   15129    Mar 29 23:29 README.md
+?UUUGGGOOOS   00  UUUUUU GGGGGG   #####    ^-- date stamp and file name are obvious ;-)
 ^ ^  ^  ^ ^    ^      ^      ^    ^
 | |  |  | |    |      |      |    \--- File Size
 | |  |  | |    |      |      \-------- Group Name (for example, Users, Administrators, etc)
@@ -124,81 +132,93 @@ ls -ltr
 The four lines above will become sorted by their date of last modification:
 
 ```
-drwx------@   11 ryan  staff        352 Dec  7 20:49 Dropbox
-drwxr-xr-x+  236 ryan  staff       7552 Feb  8 16:08 Documents
-drwxr-xr-x+  439 ryan  staff      14048 Mar 29 18:10 Downloads
-drwx------+    4 ryan  staff        128 Mar 29 18:16 Desktop
+total 104
+drwxr-xr-x@ 3 ryan  staff     96 Mar 29 16:17 corpora
+-rw-r--r--@ 1 ryan  staff  15129 Mar 29 23:29 README.md
+-rw-r--r--@ 1 ryan  staff  36352 Mar 30 00:10 schedule.xls
+drwxr-xr-x@ 3 ryan  staff     96 Mar 30 00:13 alternate_syllabi
+drwxr-xr-x@ 4 ryan  staff    128 Mar 30 09:46 01_setupsktop
 ```
 
 ### (3) "mkdir": Make a directory
 
-We can make folders by using "mkdir" command.
+We can make folders by using "mkdir" command. Let's make a "workspace" folder in our class repository.
 
 ```
-cd                  # go to home folder
-mkdir test_folder   # make a folder called 'test_folder'
-cd test_folder      # change directory to 'test_folder'
-pwd                 # print path to where we are now (our working directory)
-ls                  # list contents of folder
+cd ~/literarytextmining    # go to our class folder
+mkdir workspace            # make a folder called 'workspace'
+cd workspace               # change directory to 'workspace'
+pwd                        # where are we now?
 ```
 
-## Reading and writing files
+You should see something like: ```/Users/ryan/literarytextmining/workspace```
 
-### (4) "vi": create and edit files
+This folder will be ignored by github (set in the file ```.gitignore```), so do with it as you will.
 
-To create and edit files, use the "vi" command (advanced: use ["emacs"](https://www.digitalocean.com/community/tutorials/how-to-use-the-emacs-editor-in-linux)).
-
-["vi" is a [text editor developed for UNIX in 1976](https://en.wikipedia.org/wiki/Vi). A major new implementation of vi was [published as "vim" in 1991](https://en.wikipedia.org/wiki/Vim_(text_editor)), which is now used in most operating systems when one invokes "vi".]
-
-For example:
-
+Let's make one more folder:
 
 ```
-cd test_folder      # navigate into our test folder [created in (3)]
-vi testing.txt      # edit the file 'testing.text' (create if needed)
+cd ~/literarytextmining    # go to our class folder
+cd workspace               # change directory to 'workspace'
+mkdir terminal_practice    # make a folder in the workspace called 'terminal_practice'
+cd terminal_practice       # move into the 'terminal_practice' folder
 ```
 
-We are now inside the "vi" editor. This is an old but very sophisticated piece of software, but we will focus on only three commands.
 
-* Type ```i``` to enter **insert** mode
-	* Now type some text. Like: "hello world"
-	* Now hit escape to escape INSERT mode
+## Reading files
 
-* Type ```:w``` to **save** the file
-
-* Type ```:q``` to **quit** vi
-
-For a more thorough introduction, [see this guide](https://www.linux.com/learn/vim-101-beginners-guide-vim).
-
-### (5) "cat": print the entire contents of a file
+### (4) "cat": print the entire contents of a file
 
 To read files, use "cat":
 
 ```
-cat testing.txt      # print the contents of testing.text
+cd ~/literarytextmining    # go to course folder
+cat README.md              # print the contents of the syllabus
+cd 01_setup                # go into the first module's folder
+cat 01C_the_terminal.md    # print this terminal introduction file
 ```
-Should return ```Hello world```, or whatever we typed into testing.txt in (4).
 
-### (6) "less": show part of the contents of a file
+### (5) "less": show part of the contents of a file
 
 To read files bit by bit, which is useful for large files, use "less":
 
 ```
-less testing.text
+cd ~/literarytextmining    # go to course folder
+less README.md             # show first part of syllabus
 ```
 
-Should return:
+Once inside of `less`, hit:
 
-```Hello world
-testing.txt (END)
-```
+* "Enter" to scroll down a line
+* "Page Down" (on Mac: fn + down arrow) to go down a page;
+* "q" to quit
 
-This will come in handy later.
+### (6) "grep": search files
 
-
-## Advanced
-
-### (7) "grep": search files
+To search a file for a specific word, use grep. The syntax is: `grep "PATTERN" FILE`. For example:
 
 ```
-grep
+cd ~/literarytextmining    # go to course folder
+grep "4/4" README.md       # search syllabus for mentions of the phrase "4/4"
+```
+
+This should print out the lines mentioning "4/4". Something like this:
+
+```
+|      | 2     | Th  | 4/4  | (2) Corpora                     | (2A) Introduction to corpora; (2B) Building your own corpus   | Read: ToO, 7-25 [“Monday," ch. 1-3]      |
+```
+
+Other options (advanced):
+
+```
+grep -i terminal README.md               # search for 'terminal' case-insensitive
+grep --color=auto terminal README.md     # color results
+grep -w "4/2" README.md                  # search only for whole word matches
+grep -R terminal 01_setup                # search
+```
+
+For a more in-depth introduction to grep, [see here](https://opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics/).
+
+## Practicum
+
+Let's do this in class.
