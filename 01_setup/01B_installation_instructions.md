@@ -38,6 +38,14 @@ conda install pandas
 conda install matplotlib
 ```
 
+### (4) Install nltk modules
+
+```
+python -c "import nltk; nltk.download('punkt')"
+python -c "import nltk; nltk.download('words')"
+python -c "import nltk; nltk.download('maxent_ne_chunker')"
+```
+
 ### (4) Install spaCy English model
 
 ```
