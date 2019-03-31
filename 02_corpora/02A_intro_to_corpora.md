@@ -65,9 +65,19 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 | ch49.txt | 7    | Sunday    | Pacific Rim             | 49      | American Express       | Mi Casa/Su Casa                | Bobby Ngu         |
 
 
-### 2) Literature and Language in the 1990s and early 2000s
+### 2) Literature and Language in the 1990s
 
-A sample from the Corpus of Historical American English for these decades.
+A sample from the Corpus of Historical American English.
+
+| author                   | title                                                                   | year | genre       | note                                                    | num_words | ocr_accuracy | textID |
+|--------------------------|-------------------------------------------------------------------------|------|-------------|---------------------------------------------------------|-----------|--------------|--------|
+| Taylor-Hall, Mary Ann    | One Main Sound                                                          | 1990 | Fiction     | Ploughshares:: Winter90/91, Vol. 16 Issue 4, p46, 12p:  | 4680      | 99%          | 53162  |
+| Driscoll, Jack           | Killing time                                                            | 1990 | Fiction     | Ploughshares:: Winter90/91, Vol. 16 Issue 4, p159, 13p: | 4985      | 99%          | 53163  |
+| Henley, Patricia         | Same old big magic                                                      | 1990 | Fiction     | Ploughshares:: Winter90/91, Vol. 16 Issue 4, p193, 5p:  | 1396      | 97%          | 53164  |
+| …                        | …                                                                       | …    | …           | …                                                       | …         | …            | …      |
+| Markar Melkonian         | Richard Rorty's Politics: Liberalism at the End of the American Century | 1999 | Non-Fiction | Humanity Books, Amherst                                 | 38042     | 98%          | 773781 |
+| Gregory N. Derry         | What Science is and How it Works                                        | 1999 | Non-Fiction | Princeton University Press, Princeton, NJ               | 23576     | 99%          | 773819 |
+| Marcia B. Baxter Magolda | Creating Contexts for Learning and Self-Authorship                      | 1999 | Non-Fiction | Vanderbuilt University Press, Nashville                 | 21125     | 99%          | 773549 |
 
 ## Corpus Design
 
