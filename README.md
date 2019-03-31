@@ -41,8 +41,6 @@ Homework due at the beginning of each week will give students ample opportunity 
 
 * **Homework assignments**: …
 
-* **Midterm report**: …
-
 * **Final project and presentation**: …
 
 All written work must be double-spaced, in 12-point Times New Roman font, with 1 inch margins, and should conform to MLA citation and formatting conventions. Please refer to the MLA Handbook (8th ed.) and the MLA guide on the Purdue OWL website. Remember that anything that is not of your own invention, whether direct quotes or paraphrases, must be cited. If you have questions about when or how to cite, please contact me.
@@ -51,8 +49,7 @@ All written work must be double-spaced, in 12-point Times New Roman font, with 1
 
 | Component | Weight | Due date |
 | --------- | ------ | -------- |
-| Practicum assignments | 20% | Mondays at midnight |
-| Midterm data report (1-2 pages with 1-2 figures)| 20% | Tues May 7 |
+| Practicum assignments | 40% | Mondays at midnight |
 | Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
 | Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
 | Class participation | 15% | n/a |
@@ -121,17 +118,24 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### [(2A) Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
 
-* 
+* What is a corpus?
+* Examples of corpora
+* Our class corpora
+* Corpus design
 
 #### [(2B) Building a corpus](02_corpora/02B_building_a_corpus.md)
 
+* How to digitize texts
+* How to create metadata
+* How to structure corpus
+* **To practice**: Build a corpus with at least 10 texts, supported by at least two actionable metadata columns
 
 
 ### (3) Python 101 + Text Mining 101
 
-#### [(3A) Jupyter Lab](03_python/03A_jupyter_lab.md)
+#### (3A) Jupyter Lab]
 
-#### [(3B) Baby Python](03_python/03B_baby_python.ipynb)
+#### (3B) Baby Python]
 
 * "Hello world"
 * Integers
@@ -139,114 +143,91 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Variables
 * If/Then
 
-#### [(3C) Files and strings](03_python/03C_files_and_strings.ipynb)
+#### (3C) Files and strings
 
 * Open text
 * String slice text
+* Functions
 
-#### [(3D) Lists and words](03_python/03D_lists_and_words.ipynb)
+#### (3D) Lists and words
 
 * Lists
-* Loops
 * Splitting texts into words (text as string -> text as list)
-* Tokenizers
+* NLTK (concordance, dispersion)
+* Type-Token Ratio
 
-#### [(3E) Dictionaries and word counts](03_python/03E_dictionaries_and_word_counts.ipynb)
+#### (3E) Dictionaries and word counts
 
+* Loops
 * Dictionaries
 * Counting words (text as list -> word counts as dictionary)
-
-### (4) Text Mining
-
-#### [(4A) Linguistic diversity](04_text_mining/04A_linguistic_diversity.ipynb)
-
-* Functions
-* TTR
-
-#### [(4B) Collocation analysis](04_text_mining/04B_collocation_analysis.ipynb)
-* NLTK
-* Key Word In Context (KWIC)
-* Dispersion plots
 
 
 ### (5) Corpus Mining
 
 #### (5A) Comparing word counts
-
-#### (6C) Most distinctive words
 * Most distinctive words
-* Stylometry
 * **To practice**: Find the distinctive words of a text in your corpus
 
+#### (5B) Visualizing word counts in corpora
+* Matplotlib
+* Tableau
 
-### (7) Natural language processing
 
-#### (7A) Part of speech
+### (7) Natural language processing (NLP)
 
+#### (7A) Part of speech (POS) tagging and Named Entity Recognition (NER)
 * Part of speech analysis
 * Lemmatizing
+* Named Entity Recognition
 * **To practice**: Part-of-speech tag your corpus
 
-#### (7B) Named Entity Recognition
-* Named Entity Recognition
-* **To practice**: Find named entities in your corpus
+#### (7B) Literary Geography
+* Mapping placess
+* **To practice**: Map some of the place entities in your corpus
 
 
-### (8) Visualization
+### (8) Social network analysis
 
-#### (8A) Jupyter/Python visualization
-* Matplotlib
-* Scatterplots
-
-#### (8B) Tableau
-* Tableau
-* Graphs
-* Geographic visualization
-* **To do**: **MIDTERM DATA REPORT**
-
-
-
-### (9) Social network analysis
-#### (9A) Small world networks
+#### (8A) Introduction to networks
 * Introduction to social network analysis
 * NetworkX
 * Draw social media networks
-* **To read**: *Tropic of Orange*, 151-180 [“Friday”]
 
-#### (9B) Character networks
+#### (8B) Character networks
 * BookNLP
 * Drawing social networks in texts
 * **To practice**: Draw social networks for your own corpus
 
 
-### (10) Content analysis
-#### (10A) Generating topic models
+### (9) Content analysis
+#### (9A) Generating topic models
 * Generating topic models
 * Reading topic models
 
-#### (10B) Reading topic models
+#### (9B) Reading topic models
 * Reading output
 * Visualizing topic models
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
-### (11) Clustering
-#### (11A) Cluster analysis
+### (10) Clustering
+#### (10A) Cluster analysis
 * Hierarchical clustering
 * Kmeans clustering
 
-#### (11B) Principal component analysis (PCA)
+#### (10B) Principal component analysis (PCA)
 * PCA and multivariate analysis
 * Color by cluster
 * **To practice**: Make a PCA or cluster visualization of your corpus
 
 
-### (12) Classification (machine learning)
+### (11) Classification (machine learning)
 
-#### (12A) Intro to hypothesis testing
+#### (11A) Intro to hypothesis testing
 * General classification framework
 
-#### (12B) Logistic regression
+#### (11B) Logistic regression
 * Classification continued
 * Logistic regression
 * **To practice**: Classify a type of text in your corpus

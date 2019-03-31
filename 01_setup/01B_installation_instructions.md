@@ -1,9 +1,10 @@
-# Setup instructions
+# Setup
 
-Please follow these steps.
+## Prepare to mine!
+
+*Note: These instructions adapted from David Bamman's [setup instructions](https://github.com/dbamman/anlp19/tree/master/0.setup) for 'Applied Natural Language Processing course.*
 
 ## Anaconda
-
 
 
 ### (1) Download and install Anaconda for Python 3.7
@@ -67,7 +68,7 @@ python -m spacy download en
 
 See here for a more in-depth introduction to Git/Github: [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-## Jupyter
+## Jupyters
 
 1. Navigate to the class repository: ```cd ~/literarytextmining_spring2019```
 
@@ -75,3 +76,7 @@ See here for a more in-depth introduction to Git/Github: [https://product.hubspo
 
 
 We'll be using Jupyter notebooks extensively in this class; if you're new to them, look over a tutorial like this one: [https://www.dataquest.io/blog/jupyter-notebook-tutorial/](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
+
+## Tableau
+
+[Start the process of acquiring Tableau (free as a student)](https://www.tableau.com/academic/students).
