@@ -133,9 +133,9 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (3) Python 101 + Text Mining 101
 
-#### (3A) Jupyter Lab]
+#### (3A) Jupyter Lab
 
-#### (3B) Baby Python]
+#### (3B) Baby Python
 
 * "Hello world"
 * Integers
