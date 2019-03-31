@@ -44,7 +44,7 @@ In doing so, the Brown corpus enables cross-categorical comparison as well as a 
 
 For a fuller list, see the collaborative [Corpus Library](https://docs.google.com/spreadsheets/d/1DaM0b9ut03fQWkP6lcfbuUnTjyJzDEe3NtiDwHGGNo4/edit?usp=sharing).
 
-### Literary Lab Corpora
+### Literary Corpora
 
 | Corpus           | range     | num_words     | num_texts | desc                                                                             |
 |------------------|-----------|---------------|-----------|----------------------------------------------------------------------------------|
