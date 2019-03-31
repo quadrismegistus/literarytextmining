@@ -105,13 +105,13 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * What is literary text mining? What is possible?
 * Going over syllabus
 
-#### (1B) [Installation](01A_setup/01B_installation_instructions.md)
+#### [(1B) Installation](01A_setup/01B_installation_instructions.md)
 * Install Anaconda, NLTK, and spaCy
 * Install git
 * Clone class repository
 
 
-#### (1C) [The Terminal](01_setup/01C_the_terminal.md)
+#### [(1C) The Terminal](01_setup/01C_the_terminal.md)
 
 * Learn the basics of terminal navigation
 * Learn how to read and write files from the terminal
@@ -119,7 +119,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (2) Corpora
 
-#### (2A) [Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
+#### [(2A) Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
 
 #### [(2B) Building a corpus](02_corpora/02B_building_a_corpus.md)
 
@@ -127,16 +127,16 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (3) Python
 
-#### (3A) [Jupyter Lab](03_python/03A_jupyter_lab.md)
+#### [(3A) Jupyter Lab](03_python/03A_jupyter_lab.md)
 
-#### (3A) [Baby Python](03_python/03B_baby_python.ipynb)
+#### [(3A) Baby Python](03_python/03B_baby_python.ipynb)
 
 * "Hello world"
 * Integers
 * Strings
 * Variables
 
-#### (3C) [Lists and dictionaries](03_python/03C_lists_and_dictionaries.ipynb)
+#### [(3C) Lists and dictionaries](03_python/03C_lists_and_dictionaries.ipynb)
 
 * Lists
 * Dictionaries
