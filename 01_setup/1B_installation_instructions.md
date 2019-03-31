@@ -1,6 +1,4 @@
-# Setup
-
-## Prepare to mine!
+# Installation instructions
 
 *Note: These instructions adapted from David Bamman's [setup instructions](https://github.com/dbamman/anlp19/tree/master/0.setup) for 'Applied Natural Language Processing course.*
 
