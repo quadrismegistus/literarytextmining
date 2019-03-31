@@ -80,6 +80,8 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### 1) The 49 Chapters of Karen Yei Tamashita's *Tropic of Orange* (1997)
 
+This is the "metadata" mediated to us in the first few pages of the book, by the table of contents for all information except the narrator, whose threaded reappearances are marked in a separate table.
+
 | fn       | part | part_day  | part_title              | chapter | chapter_title          | setting                        | narrator          |
 |----------|------|-----------|-------------------------|---------|------------------------|--------------------------------|-------------------|
 | ch01.txt | 1    | Monday    | Summer Solstice         | 1       | Midday                 | Not Too Far From Mazatlán      | Rafaela Cortes    |
@@ -89,6 +91,8 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 | ch47.txt | 7    | Sunday    | Pacific Rim             | 47      | To Die                 | Pacific Rim Auditorium         | Arcangel          |
 | ch48.txt | 7    | Sunday    | Pacific Rim             | 48      | Hour 25                | Into the Boxes                 | Buzzworm          |
 | ch49.txt | 7    | Sunday    | Pacific Rim             | 49      | American Express       | Mi Casa/Su Casa                | Bobby Ngu         |
+
+This metadata is [in our repository](corpora/tropic_of_orange/metadata.xls), as well as [on Google Drive]. As we read, we will collaboratively expand our corpus metadata.
 
 
 ### 2) Literature and Language in the 1990s
@@ -107,12 +111,22 @@ A sample from the Corpus of Historical American English.
 
 ## Corpus Design
 
-### Philosophy
+[See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
 
-What kind of meaning does a corpus have? Is there intentionality to its design? What can we say of a corpus like "All Short Stories published in the *New Yorker*" that we can't say of a corpus like "One Hundred Short Stories I Found By Googling"? (If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.)
+### Statistics
+
+From a statistical perspective, corpus design often aims to enable a motivated comparison: fiction vs. non-fiction, for instance. The COHA corpus, for instance, balances the number of texts in each decade across fiction, non-fiction, newspapers, and magazines. 
 
 ### Politics
 
-Can a corpus be feminist? Can it be misogynist? How do we respond to issues of representation in corpus design? Constructing corpora is a social and political act.
+Can a corpus be feminist? Can it be misogynist? How do we respond to issues of representation in corpus design? Constructing corpora is a social and political act. ["Raw" data is an oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron): every corpus is shaped by human choices in a specific social environment.
 
-### Statistics
+### Representativeness
+
+What does a corpus represent? What can we say of a corpus like "All Short Stories published in the *New Yorker*" that we can't say of a corpus like "One Hundred Short Stories I Found By Googling"? Are both "Short Story" corpora?
+
+(If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.)
+
+### Interpretation
+
+A corpus is an interpretation. It's creative.
