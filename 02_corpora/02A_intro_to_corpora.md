@@ -46,8 +46,34 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### Literary Lab Corpora
 
-...
+| Corpus           | range     | num_words     | num_texts | desc                                                                             |
+|------------------|-----------|---------------|-----------|----------------------------------------------------------------------------------|
+| ESTC             | 1473-1900 | n/a*          | 481,711   | English Short Title Catalogue                                                    |
+| ChadwyckPoetry   | 1473-2000 | ?**           | 336,180   | Chadwyck-Healey Poetry Collections                                               |
+| EEBO_TCP         | 1474-1699 | 518,681,217   | 56,351    | Early English Books Online (curated by the Text Creation Partnership)            |
+| ChadwyckDrama    | 1522-2004 | 72,867,097    | 6,550     | Chadwyck-Healey Drama Collections                                                |
+| EnglishDialogues | 1560-1759 | 825,458       | 177       | A Corpus of English Dialogues, 1560-1760                                         |
+| Chadwyck         | 1582-1899 | 124,116,685   | 1,338     | Chadwyck-Healey Fiction Collections                                              |
+| LitLab           | 1671-2011 | 658,305,023   | 5,411     | Literary Lab Corpus of 18th and 19th Century Novels                              |
+| BPO              | 1681-1899 | ?**           | 3,167,399 | British Periodicals Online                                                       |
+| ECCO_LitLang     | 1700-1799 | 2,512,630,124 | 43,207    | Eighteenth Century Collections Online (Literature and Language section)          |
+| ECCO             | 1700-1799 | ?**           | 154,924   | Eighteenth Century Collections Online                                            |
+| ECCO_TCP         | 1701-1800 | 84,903,280    | 2,387     | Eighteenth Century Collections Online (curated by the Text Creation Partnership) |
+| TedJDH           | 1701-1899 | 231,245,243   | 3,778     | Corpus used by Ted Underwood in the 2012 Journal of Digital Humanities piece     |
+| CLMET            | 1710-1920 | 32,790,876    | 333       | Corpus of Late Modern English Texts                                              |
+| Spectator        | 1711-1714 | ?**           | 842       | The Spectator (1711-1714)                                                        |
+| OldBailey        | 1720-1913 | 22,594,354    | 637       | Old Bailey Online                                                                |
+| RavenGarside     | 1750-1829 | n/a*          | 5,087     | Raven & Garside's Bibliography of English Novels, 1770-1830                      |
+| Sellars          | 1800-1899 | 137,648,624   | 1,590     | 19th Century Texts compiled by Jordan Sellars                                    |
+| COHA             | 1810-2009 | 378,062,011   | 116,599   | Corpus of Historical American English                                            |
+| DialNarr         | 1825-1945 | ?**           | 1,918     | Separated Dialogue and Narration Portions of Chadwyck-Healey Novels              |
+| GildedAge        | 1875-1905 | 26,690,232    | 334       | U.S. Fiction of the Gilded Age                                                   |
+| Chicago          | 1880-2000 | ?**           | 9,089     | The University of Chicago Corpus of Twentieth Century Novels                     |
+| MarkMark         | 1881-2011 | 56,366,062    | 355       | Mark Algee-Hewitt's and Mark McGurl's 20th Century Corpus                        |
 
+\* This corpus is a bibliography only, so it has metadata without texts.
+
+** Not yet calculated for some reason.
 
 
 ## Our Class Corpora
