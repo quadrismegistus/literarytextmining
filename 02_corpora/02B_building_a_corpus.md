@@ -41,10 +41,8 @@ Put your texts in a single folder called something descriptive (like, "poe_corpu
 
 ## Next steps
 
-
-
 And voilà: you have a corpus! Now, on to the fun part.
 
 Notes
 
-There are a lot of possible complications here. For example: if you have a fuzzy PDF of a historical text, the character recognition might not be very accurate, so you'll need to correct your text before you analyze it. Before you start, have a chat with someone in CESTA or the library who has prepared electronic texts from books--they can help you plan.
+* There are a lot of possible complications here. For example: if you have a fuzzy PDF of a historical text, the character recognition might not be very accurate, so you'll need to correct your text before you analyze it.
