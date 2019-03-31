@@ -72,10 +72,10 @@ Abbreviations:
 
 | Week | Class | Day | Date | Topic                       | Class modules                                                                                           | Practicum due                                                                                           | Reading due                     |
 |------|-------|-----|------|-----------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
-| 1    | 1     | T   | 4/2  | Introduction                | (1A) Class introduction; (1B) [Installation](#1B-Installation); [(1C) The Terminal](01_setup/01C_the_terminal.md)           |                                                                                                         |                                 |
-|      | 2     | Th  | 4/4  | Corpora                     | [(2A) Building corpora](02_corpora/02A_building_corpora.md)                                             | [(1C) The Termina](01_setup/01C_the_terminal_TODO)                                                      | ToO, 7-25 [“Monday," ch. 1-3]   |
-| 2    | 3     | T   | 4/9  | Python                      | [(3A) Jupyter Lab](03_python/03A_jupyter_lab.md); [(3B) Baby Python](03B_baby_python.ipynb)             | (2A) Building corpora                                                                                   |                                 |
-|      | 4     | Th  | 4/11 |                             | (3C) Lists and dictionaries                                                                             | (3B) Baby Python                                                                                        | ToO, 25-50 [“Monday," ch. 4-7]  |
+| 1    | 1     | T   | 4/2  | Introduction                | (1A) Class introduction; [(1B) Installation](#1B-Installation); [(1C) The Terminal](#1C-The-Terminal)   |                                                                                                         |                                 |
+|      | 2     | Th  | 4/4  | Corpora                     | [(2A) Intro to corpora](#2A-Introduction-to-corpora); [(2A) Building a corpus](#2A-Building-a-corpus)   | [(1C) The Termina](01_setup/01C_the_terminal_TODO)                                                      | ToO, 7-25 [“Monday," ch. 1-3]   |
+| 2    | 3     | T   | 4/9  | Python                      | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                         | (2A) Building corpora                                                                                   |                                 |
+|      | 4     | Th  | 4/11 |                             | [(3C) Lists and dictionaries](#3C-Lists-and-dictionaries)                                               | (3B) Baby Python                                                                                        | ToO, 25-50 [“Monday," ch. 4-7]  |
 | 3    | 5     | T   | 4/16 | Words (single text)         | (4A) Reading text files; (4B) Tokenizing                                                                | (3C) Lists and dictionaries                                                                             |                                 |
 |      | 6     | Th  | 4/18 |                             | (4C) Counting words                                                                                     | (4A) Reading text files; (4B) Tokenizing                                                                | Read: ToO, 51-84 [“Tuesday"]    |
 | 4    | 7     | T   | 4/23 |                             | (4D) Collocations                                                                                       | (4C) Counting words                                                                                     |                                 |
@@ -121,7 +121,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### (2A) Introduction to corpora
 
-#### (2B) Building your own corpus
+#### (2B) Building a corpus
 
 
 
