@@ -121,6 +121,9 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### [(2A) Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
 
+* 
+
+
 #### [(2B) Building a corpus](02_corpora/02B_building_a_corpus.md)
 
 
@@ -141,8 +144,13 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Lists
 * Dictionaries
 
+#### [(3D) Loops and the if-then](03_python/03D_loops_and_the_if-then.ipynb)
 
-### (4) Intro to Text Mining
+* The for loop
+* If/then
+
+
+### (4) Text Mining
 
 #### (4A) Reading text files
 
@@ -158,25 +166,20 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 * Counting words (text as list -> word counts as dictionary)
 
-
-### (5) Mining Individual Texts
-
-#### (5A) Linguistic diversity
+#### (4D) Linguistic diversity
 
 * Number of words (list of tokens)
 * Number of unique words (set of types)
 * Type/token ratio
 
-#### (5B) Key Word In Context (KWIC)
+#### (4E) Key Word In Context (KWIC)
 
-#### (5C) Dispersion plots
+#### (4F) Dispersion plots
 
 
-### (6) Mining Corpora
+### (5) Corpus Mining
 
-#### (6A) Loops and control structures
-
-#### (6B) Comparing word counts
+#### (5A) Comparing word counts
 
 #### (6C) Most distinctive words
 * Most distinctive words
@@ -190,79 +193,72 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 * Part of speech analysis
 * Lemmatizing
+* **To practice**: Part-of-speech tag your corpus
 
 #### (7B) Named Entity Recognition
 * Named Entity Recognition
-
-* **To do**: 
-* **To practice**: Part-of-speech tag your corpus. Which parts of speech distinguish a specific text in your corpus? Which named entities are in your corpus?
+* **To practice**: Find named entities in your corpus
 
 
+### (8) Visualization
 
-### Week 5: Visualization
-#### (9) Tues Apr 30
+#### (8A) Jupyter/Python visualization
 * Matplotlib
 * Scatterplots
-* **To read**: *Tropic of Orange*, 119-150 [“Thursday”]
 
-#### (10) Thurs May 2
+#### (8B) Tableau
 * Tableau
-* Line graphs
+* Graphs
 * Geographic visualization
 * **To do**: **MIDTERM DATA REPORT**
 
-
-
-### Week 6: Social network analysis
-#### (11) Tues May 7
+### (9) Social network analysis
+#### (9A) Small world networks
 * Introduction to social network analysis
 * NetworkX
 * Draw social media networks
 * **To read**: *Tropic of Orange*, 151-180 [“Friday”]
 
-#### (12) Thurs May 9
+#### (9B) Character networks
 * BookNLP
 * Drawing social networks in texts
 * **To practice**: Draw social networks for your own corpus
 
 
-### Week 7: Content analysis
-#### (13) Tues May 14
+### (10) Content analysis
+#### (10A) Generating topic models
 * Generating topic models
 * Reading topic models
-* **To read**: *Tropic of Orange*, 181-208 [“Saturday”]
 
-#### (14) Thurs May 16
+#### (10B) Reading topic models
+* Reading output
 * Visualizing topic models
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
 
-### Week 8: Clustering
-#### (15) Tues May 21
+### (11) Clustering
+#### (11A) Cluster analysis
 * Hierarchical clustering
 * Kmeans clustering
-* **To read**: *Tropic of Orange*, 209-230 [“Sunday”]
 
-#### (16) Thurs May 23
+#### (11B) Principal component analysis (PCA)
 * PCA and multivariate analysis
 * Color by cluster
 * **To practice**: Make a PCA or cluster visualization of your corpus
 
 
-### Week 9: Classification (machine learning)
-#### (17) Tues May 28
+### (12) Classification (machine learning)
+
+#### (12A) Intro to hypothesis testing
 * General classification framework
 * Logistic regression
 * **To practice**: Classify a type of text in your corpus
 
-#### (18) Thurs May 30
+#### (12B) Logistic regression
 * Classification continued
 * Presentation preparation
 
-### Week 10: Presentations!
-#### (19) Tues June 4
-* Final project presentations!
 
 
 ## Appendix
