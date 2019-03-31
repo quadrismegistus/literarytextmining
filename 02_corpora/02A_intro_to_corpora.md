@@ -126,7 +126,3 @@ Can a corpus be feminist? Can it be misogynist? How do we respond to issues of r
 What does a corpus represent? What can we say of a corpus like "All Short Stories published in the *New Yorker*" that we can't say of a corpus like "One Hundred Short Stories I Found By Googling"? Are both "Short Story" corpora?
 
 (If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.)
-
-### Interpretation
-
-A corpus is an interpretation. It's creative.
