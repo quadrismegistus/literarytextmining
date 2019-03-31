@@ -50,7 +50,7 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### Literary Corpora
 
-Here are some literary corpora to which we have access. (If you need to see texts from these corpora to [build your corpus](02B_building_a_corpus.md), message me.)
+Here are some literary corpora to which we have access. (If you need to see texts from these corpora to [build your corpus](2B_building_a_corpus.md), message me.)
 
 | Corpus           | Genres            | range     | num_texts | desc                                                                             |
 |------------------|-------------------|-----------|-----------|----------------------------------------------------------------------------------|

@@ -102,13 +102,13 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * What is literary text mining? What is possible?
 * Going over syllabus
 
-#### [(1B) Installation](01A_setup/01B_installation_instructions.md)
+#### [(1B) Installation](01_setup/1B_installation_instructions.md)
 * Install Anaconda, NLTK, and spaCy
 * Install git
 * Clone class repository
 
 
-#### [(1C) The Terminal](01_setup/01C_the_terminal.md)
+#### [(1C) The Terminal](01_setup/1C_the_terminal.md)
 
 * Learn the basics of terminal navigation
 * Learn how to read and write files from the terminal
@@ -116,14 +116,14 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (2) Corpora
 
-#### [(2A) Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
+#### [(2A) Introduction to corpora](02_corpora/2A_intro_to_corpora.md)
 
 * What is a corpus?
 * Examples of corpora
 * Our class corpora
 * Corpus design
 
-#### [(2B) Building a corpus](02_corpora/02B_building_a_corpus.md)
+#### [(2B) Building a corpus](02_corpora/2B_building_a_corpus.md)
 
 * How to digitize texts
 * How to create metadata
@@ -163,71 +163,78 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Counting words (text as list -> word counts as dictionary)
 
 
-### (5) Corpus Mining
+### (4) Corpus Mining
 
-#### (5A) Comparing word counts
+#### (4A) Pandas and the dataframe
+
+* Introduction to pandas
+* How to think and use dataframes
+
+#### (4B) Comparing word counts
+* Correlations
 * Most distinctive words
 * **To practice**: Find the distinctive words of a text in your corpus
 
-#### (5B) Visualizing word counts in corpora
+#### (4C) Visualizing word counts in corpora
 * Matplotlib
 * Tableau
 
 
-### (7) Natural language processing (NLP)
+### (5) Natural language processing (NLP)
 
-#### (7A) Part of speech (POS) tagging and Named Entity Recognition (NER)
+#### (5A) Part of speech tagging
 * Part of speech analysis
 * Lemmatizing
 * Named Entity Recognition
 * **To practice**: Part-of-speech tag your corpus
 
-#### (7B) Literary Geography
-* Mapping placess
+#### (5B) Literary Geography
+* Named Entity Recognition continued
+* Mapping places
 * **To practice**: Map some of the place entities in your corpus
 
 
-### (8) Social network analysis
+### (6) Social network analysis
 
-#### (8A) Introduction to networks
+#### (6A) Introduction to networks
 * Introduction to social network analysis
 * NetworkX
 * Draw social media networks
 
-#### (8B) Character networks
+#### (6B) Character networks
 * BookNLP
 * Drawing social networks in texts
 * **To practice**: Draw social networks for your own corpus
 
 
-### (9) Content analysis
-#### (9A) Generating topic models
+### (7) Content analysis
+#### (7A) Generating topic models
 * Generating topic models
 * Reading topic models
 
-#### (9B) Reading topic models
+#### (7B) Reading topic models
 * Reading output
 * Visualizing topic models
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
-### (10) Clustering
-#### (10A) Cluster analysis
+### (8) Clustering
+#### (8A) Cluster analysis
 * Hierarchical clustering
 * Kmeans clustering
 
-#### (10B) Principal component analysis (PCA)
+#### (8B) Principal component analysis (PCA)
 * PCA and multivariate analysis
 * Color by cluster
 * **To practice**: Make a PCA or cluster visualization of your corpus
 
 
-### (11) Classification (machine learning)
+### (9) Classification (machine learning)
 
-#### (11A) Intro to hypothesis testing
+#### (9A) Intro to hypothesis testing
 * General classification framework
 
-#### (11B) Logistic regression
+#### (9B) Logistic regression
 * Classification continued
 * Logistic regression
 * **To practice**: Classify a type of text in your corpus

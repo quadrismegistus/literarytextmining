@@ -64,9 +64,9 @@ python -m spacy download en
 
 1. Navigate to your home folder (advanced: wherever you want): ```cd ~```
 
-2. Clone the repository: ```git clone https://github.com/quadrismegistus/literarytextmining_spring2019.git```
+2. Clone the repository: ```git clone https://github.com/quadrismegistus/literarytextmining.git```
 
-3. Navigate into the class repository: ```cd literarytextmining_spring2019```
+3. Navigate into the class repository: ```cd literarytextmining```
 
 4. List its contents: ```ls```
 
@@ -78,7 +78,7 @@ See here for a more in-depth introduction to Git/Github: [https://product.hubspo
 
 ## Jupyters
 
-1. Navigate to the class repository: ```cd ~/literarytextmining_spring2019```
+1. Navigate to the class repository: ```cd ~/literarytextmining```
 
 2. Activate Jupyter: ```jupyter lab```
 

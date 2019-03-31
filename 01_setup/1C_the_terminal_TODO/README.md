@@ -15,7 +15,7 @@ These games were popular in the late 1970s and 1980s. Today's practicum is writt
 First, enter the folder of the mazes:
 
 ```
-cd ~/literarytextmining/01_setup/01C_the_terminal_TODO
+cd ~/literarytextmining/01_setup/1C_the_terminal_TODO
 ```
 
 ### Assignment
@@ -25,7 +25,7 @@ You see before you three "mazes," each of which is a folder.
 
 Inside each of these mazes is an unknown number of other folders. Buried somewhere in these nested folders is a file called "finish.txt". We want to find these the "finish.txt" file for each of the three mazes, and read what's inside them.
 
-Use `cd` and `ls` to navigate through each maze.  When you find "finish.txt", print out its contents using `cat.` We learned all of this in our module, [(1C) The Terminal](../01C_the_terminal.md).
+Use `cd` and `ls` to navigate through each maze.  When you find "finish.txt", print out its contents using `cat.` We learned all of this in our module, [(1C) The Terminal](../1C_the_terminal.md).
 
 We'll do the first maze together. The second and third will be done on your own, in class or at home, time depending.
 
@@ -37,7 +37,7 @@ Let's enter the first maze.
 
 ```
 # enter the folder of the mazes
-cd ~/literarytextmining/01_setup/01C_the_terminal_TODO
+cd ~/literarytextmining/01_setup/1C_the_terminal_TODO
 
 # enter maze 1
 cd maze1
@@ -73,7 +73,7 @@ pwd
 This should return something like:
 
 ```
-/Users/ryan/literarytextmining/01_setup/01C_the_terminal_TODO/maze1/door1
+/Users/ryan/literarytextmining/01_setup/1C_the_terminal_TODO/maze1/door1
 ```
 
 Great: we're inside the first door of the first maze (`.../maze1/door1`). Now, how do we go back "up" again?

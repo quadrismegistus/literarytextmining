@@ -68,7 +68,7 @@ To review, here are a few magic names for folders:
 * `.`: the folder we're in right now
 * `/`: the root folder of the entire file system
 
-But let's stop using these magic names and go to a normal, named folder. Let's now move directly to our class repository folder, which we [installed in module (1B)](https://github.com/quadrismegistus/literarytextmining_spring2019/blob/master/01_setup/01A_installation_instructions.md#2-clone-class-repository):
+But let's stop using these magic names and go to a normal, named folder. Let's now move directly to our class repository folder, which we [installed in module (1B)](https://github.com/quadrismegistus/literarytextmining/blob/master/01_setup/1A_installation_instructions.md#2-clone-class-repository):
 
 ```
 cd ~/literarytextmining
@@ -98,9 +98,7 @@ You should see something like this:
 total 104
 drwxr-xr-x@ 4 ryan  staff    128 Mar 30 09:41 01_setup
 -rw-r--r--@ 1 ryan  staff  15129 Mar 29 23:29 README.md
-drwxr-xr-x@ 3 ryan  staff     96 Mar 30 00:13 alternate_syllabi
 drwxr-xr-x@ 3 ryan  staff     96 Mar 29 16:17 corpora
--rw-r--r--@ 1 ryan  staff  36352 Mar 30 00:10 schedule.xls
 ```
 
 These represent ([source](https://unix.stackexchange.com/a/140944)):
@@ -135,9 +133,7 @@ The four lines above will become sorted by their date of last modification:
 total 104
 drwxr-xr-x@ 3 ryan  staff     96 Mar 29 16:17 corpora
 -rw-r--r--@ 1 ryan  staff  15129 Mar 29 23:29 README.md
--rw-r--r--@ 1 ryan  staff  36352 Mar 30 00:10 schedule.xls
-drwxr-xr-x@ 3 ryan  staff     96 Mar 30 00:13 alternate_syllabi
-drwxr-xr-x@ 4 ryan  staff    128 Mar 30 09:46 01_setupsktop
+drwxr-xr-x@ 4 ryan  staff    128 Mar 30 09:46 01_setup
 ```
 
 ### (3) "mkdir": Make a directory
@@ -175,7 +171,7 @@ To read files, use "cat":
 cd ~/literarytextmining    # go to course folder
 cat README.md              # print the contents of the syllabus
 cd 01_setup                # go into the first module's folder
-cat 01C_the_terminal.md    # print this terminal introduction file
+cat 1C_the_terminal.md     # print this terminal introduction file
 ```
 
 ### (5) "less": show part of the contents of a file
@@ -221,4 +217,4 @@ For a more in-depth introduction to grep, [see here](https://opensourceforu.com/
 
 ## Practicum
 
-[See here for the practicum for this module](01C_the_terminal_TODO/README.md).
+[See here for the practicum for this module](1C_the_terminal_TODO/README.md).
