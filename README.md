@@ -77,15 +77,15 @@ Abbreviations:
 | 2    | 3     | T   | 4/9  | Python                      | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                         | (2A) Building corpora                                                                                   |                                 |
 |      | 4     | Th  | 4/11 |                             | [(3C) Lists and dictionaries](#3C-Lists-and-dictionaries)                                               | (3B) Baby Python                                                                                        | ToO, 25-50 [“Monday," ch. 4-7]  |
 | 3    | 5     | T   | 4/16 | Words (single text)         | (4A) Reading text files; (4B) Tokenizing                                                                | (3C) Lists and dictionaries                                                                             |                                 |
-|      | 6     | Th  | 4/18 |                             | (4C) Counting words                                                                                     | (4A) Reading text files; (4B) Tokenizing                                                                | Read: ToO, 51-84 [“Tuesday"]    |
+|      | 6     | Th  | 4/18 |                             | (4C) Counting words                                                                                     | (4A) Reading text files; (4B) Tokenizing                                                                | ToO, 51-84 [“Tuesday"]    |
 | 4    | 7     | T   | 4/23 |                             | (4D) Collocations                                                                                       | (4C) Counting words                                                                                     |                                 |
-|      | 8     | Th  | 4/25 | Words (corpus)              | (6A) Loops and control structures                                                                       | (4D) Collocations                                                                                       | Read: ToO, 85-118 [“Wednesday”] |
+|      | 8     | Th  | 4/25 | Words (corpus)              | (6A) Loops and control structures                                                                       | (4D) Collocations                                                                                       | ToO, 85-118 [“Wednesday”] |
 | 5    | 9     | T   | 4/30 |                             | (6B) Introduction to Pandas                                                                             |                                                                                                         |                                 |
-|      | 10    | Th  | 5/2  | Visualization               | (7A) Tableau                                                                                            |                                                                                                         | Read: ToO, 119-150 [“Thursday”] |
+|      | 10    | Th  | 5/2  | Visualization               | (7A) Tableau                                                                                            | [download and install Tableau](https://www.tableau.com/academic/students)                               | ToO, 119-150 [“Thursday”] |
 | 6    | 11    | T   | 5/7  | Distinctive words           | (6D) Most distinctive words                                                                             | Midterm: data report                                                                                    |                                 |
-|      | 12    | Th  | 5/9  | Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition                                              |                                                                                                         | Read: ToO, 151-180 [“Friday”]   |
+|      | 12    | Th  | 5/9  | Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition                                              |                                                                                                         | ToO, 151-180 [“Friday”]   |
 | 7    | 13    | T   | 5/14 | Literary Geography          | (9A) Making a gazetteer; (9B) Mapping Place Names                                                       |                                                                                                         |                                 |
-|      | 14    | Th  | 5/16 | Social Network Analysis     | (10A) NetworkX; (10B) Social Media Networks                                                             |                                                                                                         | Read: ToO, 181-208 [“Saturday”] |
+|      | 14    | Th  | 5/16 | Social Network Analysis     | (10A) NetworkX; (10B) Social Media Networks                                                             |                                                                                                         | ToO, 181-208 [“Saturday”] |
 | 8    | 15    | T   | 5/21 |                             | (10C) BookNLP; (10D) Social Networks in Literature                                                      |                                                                                                         |                                 |
 |      | 16    | Th  | 5/23 | Content Analysis            | Generating Topic Models                                                                                 | Read: ToO, 209-230 [“Sunday”]                                                                           |                                 |
 | 9    | 17    | T   | 5/28 | Clustering                  | Hclust and Kmeans                                                                                       |                                                                                                         |                                 |
@@ -186,15 +186,15 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (7) Natural language processing
 
+#### (7A) Part of speech
+
 * Part of speech analysis
 * Lemmatizing
 
-* Sentence syntax
-* **To read**: *Tropic of Orange*, 85-118 [“Wednesday”]
-
-#### (8) Thurs Apr 25
+#### (7B) Named Entity Recognition
 * Named Entity Recognition
-* **To do**: [download and install Tableau](https://www.tableau.com/academic/students)
+
+* **To do**: 
 * **To practice**: Part-of-speech tag your corpus. Which parts of speech distinguish a specific text in your corpus? Which named entities are in your corpus?
 
 
