@@ -74,7 +74,7 @@ Abbreviations:
 |------|-------|-----|------|-----------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|---------------------------------|
 | 1    | 1     | T   | 4/2  | Introduction                | (1A) Class introduction; [(1B) Installation](#1B-Installation); [(1C) The Terminal](#1C-The-Terminal)   |                                                                                                         |                                 |
 |      | 2     | Th  | 4/4  | Corpora                     | [(2A) Intro to corpora](#2A-Introduction-to-corpora); [(2B) Building a corpus](#2B-Building-a-corpus)   | [(1C) The Terminal](01_setup/01C_the_terminal_TODO)                                                     | ToO, 7-25 [“Monday," ch. 1-3]   |
-| 2    | 3     | T   | 4/9  | Python                      | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                         | (2A) Building corpora                                                                                   |                                 |
+| 2    | 3     | T   | 4/9  | Python                      | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                         | (2B) Building a corpus                                                                                  |                                 |
 |      | 4     | Th  | 4/11 |                             | [(3C) Lists and dictionaries](#3C-Lists-and-dictionaries)                                               | (3B) Baby Python                                                                                        | ToO, 25-50 [“Monday," ch. 4-7]  |
 | 3    | 5     | T   | 4/16 | Words (single text)         | (4A) Reading text files; (4B) Tokenizing                                                                | (3C) Lists and dictionaries                                                                             |                                 |
 |      | 6     | Th  | 4/18 |                             | (4C) Counting words                                                                                     | (4A) Reading text files; (4B) Tokenizing                                                                | ToO, 51-84 [“Tuesday"]    |
@@ -82,7 +82,7 @@ Abbreviations:
 |      | 8     | Th  | 4/25 | Words (corpus)              | (6A) Loops and control structures                                                                       | (4D) Collocations                                                                                       | ToO, 85-118 [“Wednesday”] |
 | 5    | 9     | T   | 4/30 |                             | (6B) Introduction to Pandas                                                                             |                                                                                                         |                                 |
 |      | 10    | Th  | 5/2  | Visualization               | (7A) Tableau                                                                                            | [download and install Tableau](https://www.tableau.com/academic/students)                               | ToO, 119-150 [“Thursday”] |
-| 6    | 11    | T   | 5/7  | Distinctive words           | (6D) Most distinctive words                                                                             | Midterm: data report                                                                                    |                                 |
+| 6    | 11    | T   | 5/7  | Distinctive words           | (6D) Most distinctive words                                                                             | MIDTERM: data report                                                                                    |                                 |
 |      | 12    | Th  | 5/9  | Natural Language Processing | (8A) Part of speech tagging; (8B) Named Entity Recognition                                              |                                                                                                         | ToO, 151-180 [“Friday”]   |
 | 7    | 13    | T   | 5/14 | Literary Geography          | (9A) Making a gazetteer; (9B) Mapping Place Names                                                       |                                                                                                         |                                 |
 |      | 14    | Th  | 5/16 | Social Network Analysis     | (10A) NetworkX; (10B) Social Media Networks                                                             |                                                                                                         | ToO, 181-208 [“Saturday”] |
@@ -123,58 +123,50 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 * 
 
-
 #### [(2B) Building a corpus](02_corpora/02B_building_a_corpus.md)
 
 
 
-### (3) Python
+### (3) Python 101 + Text Mining 101
 
 #### [(3A) Jupyter Lab](03_python/03A_jupyter_lab.md)
 
-#### [(3A) Baby Python](03_python/03B_baby_python.ipynb)
+#### [(3B) Baby Python](03_python/03B_baby_python.ipynb)
 
 * "Hello world"
 * Integers
 * Strings
 * Variables
+* If/Then
 
-#### [(3C) Lists and dictionaries](03_python/03C_lists_and_dictionaries.ipynb)
-
-* Lists
-* Dictionaries
-
-#### [(3D) Loops and the if-then](03_python/03D_loops_and_the_if-then.ipynb)
-
-* The for loop
-* If/then
-
-
-### (4) Text Mining
-
-#### (4A) Reading text files
+#### [(3C) Files and strings](03_python/03C_files_and_strings.ipynb)
 
 * Open text
 * String slice text
 
-#### (4B) Tokenizing
+#### [(3D) Lists and words](03_python/03D_lists_and_words.ipynb)
 
+* Lists
+* Loops
 * Splitting texts into words (text as string -> text as list)
 * Tokenizers
 
-#### (4C) Counting words
+#### [(3E) Dictionaries and word counts](03_python/03E_dictionaries_and_word_counts.ipynb)
 
+* Dictionaries
 * Counting words (text as list -> word counts as dictionary)
 
-#### (4D) Linguistic diversity
+### (4) Text Mining
 
-* Number of words (list of tokens)
-* Number of unique words (set of types)
-* Type/token ratio
+#### [(4A) Linguistic diversity](04_text_mining/04A_linguistic_diversity.ipynb)
 
-#### (4E) Key Word In Context (KWIC)
+* Functions
+* TTR
 
-#### (4F) Dispersion plots
+#### [(4B) Collocation analysis](04_text_mining/04B_collocation_analysis.ipynb)
+* NLTK
+* Key Word In Context (KWIC)
+* Dispersion plots
 
 
 ### (5) Corpus Mining
@@ -212,6 +204,8 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Geographic visualization
 * **To do**: **MIDTERM DATA REPORT**
 
+
+
 ### (9) Social network analysis
 #### (9A) Small world networks
 * Introduction to social network analysis
@@ -236,7 +230,6 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
-
 ### (11) Clustering
 #### (11A) Cluster analysis
 * Hierarchical clustering
@@ -252,12 +245,11 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### (12A) Intro to hypothesis testing
 * General classification framework
-* Logistic regression
-* **To practice**: Classify a type of text in your corpus
 
 #### (12B) Logistic regression
 * Classification continued
-* Presentation preparation
+* Logistic regression
+* **To practice**: Classify a type of text in your corpus
 
 
 
