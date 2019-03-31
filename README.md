@@ -119,9 +119,9 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (2) Corpora
 
-#### (2A) Introduction to corpora
+#### (2A) [Introduction to corpora](02_corpora/02A_intro_to_corpora.md)
 
-#### (2B) Building a corpus
+#### (2B) [Building a corpus](02_corpora/02B_building_a_corpus.md)
 
 
 
