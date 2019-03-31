@@ -59,49 +59,7 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 | ch01.txt | 1    | Monday    | Summer Solstice         | 1       | Midday                 | Not Too Far From Mazatlán      | Rafaela Cortes    |
 | ch02.txt | 1    | Monday    | Summer Solstice         | 2       | Benefits               | Koreatown                      | Bobby Ngu         |
 | ch03.txt | 1    | Monday    | Summer Solstice         | 3       | Weather Report         | Westside                       | Emi               |
-| ch04.txt | 1    | Monday    | Summer Solstice         | 4       | Station ID             | Jefferson & Normandie          | Buzzworm          |
-| ch05.txt | 1    | Monday    | Summer Solstice         | 5       | Traffic Window         | Harbor Freeway                 | Manzanar Murakami |
-| ch06.txt | 1    | Monday    | Summer Solstice         | 6       | Coffee Break           | Downtown                       | Gabriel Balboa    |
-| ch07.txt | 1    | Monday    | Summer Solstice         | 7       | To Wake                | The Marketplace                | Arcangel          |
-| ch08.txt | 2    | Tuesday   | Diamond Lane            | 8       | Rideshare              | Downtown Interchange           | Manzanar Murakami |
-| ch09.txt | 2    | Tuesday   | Diamond Lane            | 9       | NewsNow                | Hollywood South                | Emi               |
-| ch10.txt | 2    | Tuesday   | Diamond Lane            | 10      | Morning                | En México                      | Rafaela Cortes    |
-| ch11.txt | 2    | Tuesday   | Diamond Lane            | 11      | To Wash                | On the Tropic                  | Arcangel          |
-| ch12.txt | 2    | Tuesday   | Diamond Lane            | 12      | Car Payment Due        | Tijuana via Singapore          | Bobby Ngu         |
-| ch13.txt | 2    | Tuesday   | Diamond Lane            | 13      | Oldies                 | This Old Hood                  | Buzzworm          |
-| ch14.txt | 2    | Tuesday   | Diamond Lane            | 14      | Budgets                | Skirting Downtown              | Gabriel Balboa    |
-| ch15.txt | 3    | Wednesday | Cultural Diversity      | 15      | Second Mortgage        | Chinatown                      | Bobby Ngu         |
-| ch16.txt | 3    | Wednesday | Cultural Diversity      | 16      | LA X                   | Margarita's Corner             | Buzzworm          |
-| ch17.txt | 3    | Wednesday | Cultural Diversity      | 17      | The Interview          | Manzanar                       | Gabriel Balboa    |
-| ch18.txt | 3    | Wednesday | Cultural Diversity      | 18      | Daylight               | The Cornfield                  | Rafaela Cortes    |
-| ch19.txt | 3    | Wednesday | Cultural Diversity      | 19      | Hour of the Trucks     | The Freeway Canon              | Manzanar Murakami |
-| ch20.txt | 3    | Wednesday | Cultural Diversity      | 20      | Disaster Movie Week    | Hiro's Sushi                   | Emi               |
-| ch21.txt | 3    | Wednesday | Cultural Diversity      | 21      | To Eat                 | La Cantina de Miseria y Hambre | Arcangel          |
-| ch22.txt | 4    | Thursday  | The Eternal Buzz        | 22      | You Give Us 22 Minutes | The World                      | Buzzworm          |
-| ch23.txt | 4    | Thursday  | The Eternal Buzz        | 23      | To Labor               | East & West Forever            | Arcangel          |
-| ch24.txt | 4    | Thursday  | The Eternal Buzz        | 24      | Dusk                   | To the Border                  | Rafaela Cortes    |
-| ch25.txt | 4    | Thursday  | The Eternal Buzz        | 25      | Time & a Half          | Limousine Way                  | Gabriel Balboa    |
-| ch26.txt | 4    | Thursday  | The Eternal Buzz        | 26      | Life Insurance         | L.A./T.J.                      | Bobby Ngu         |
-| ch27.txt | 4    | Thursday  | The Eternal Buzz        | 27      | Live on Air            | El A                           | Emi               |
-| ch28.txt | 4    | Thursday  | The Eternal Buzz        | 28      | Lane Change            | Avoiding the Harbor            | Manzanar Murakami |
-| ch29.txt | 5    | Friday    | Artificial Intelligence | 29      | Promos                 | World Wide Web                 | Emi               |
-| ch30.txt | 5    | Friday    | Artificial Intelligence | 30      | Dawn                   | The Other Side                 | Rafaela Cortes    |
-| ch31.txt | 5    | Friday    | Artificial Intelligence | 31      | AM/FM                  | FreeZone                       | Buzzworm          |
-| ch32.txt | 5    | Friday    | Artificial Intelligence | 32      | Overtime               | El Zócalo                      | Gabriel Balboa    |
-| ch33.txt | 5    | Friday    | Artificial Intelligence | 33      | To Dream               | America                        | Arcangel          |
-| ch34.txt | 5    | Friday    | Artificial Intelligence | 34      | Visa Card              | Final Destination              | Bobby Ngu         |
-| ch35.txt | 5    | Friday    | Artificial Intelligence | 35      | Jam                    | Greater L.A.                   | Manzanar Murakami |
-| ch36.txt | 6    | Saturday  | Queen of Angels         | 36      | To Perform             | Angel's Flight                 | Arcangel          |
-| ch37.txt | 6    | Saturday  | Queen of Angels         | 37      | The Car Show           | Front Line                     | Buzzworm          |
-| ch38.txt | 6    | Saturday  | Queen of Angels         | 38      | Nightfall              | Aztlán                         | Rafaela Cortes    |
-| ch39.txt | 6    | Saturday  | Queen of Angels         | 39      | Working Weekend        | Dirt Shoulder                  | Gabriel Balboa    |
-| ch40.txt | 6    | Saturday  | Queen of Angels         | 40      | Social Security        | I-5                            | Bobby Ngu         |
-| ch41.txt | 6    | Saturday  | Queen of Angels         | 41      | Prime Time             | Last Stop                      | Emi               |
-| ch42.txt | 6    | Saturday  | Queen of Angels         | 42      | Drive-By               | Virtually Everywhere           | Manzanar Murakami |
-| ch43.txt | 7    | Sunday    | Pacific Rim             | 43      | Deadline               | Over the Net                   | Gabriel Balboa    |
-| ch44.txt | 7    | Sunday    | Pacific Rim             | 44      | Commercial Break       | The Big Sleep                  | Emi               |
-| ch45.txt | 7    | Sunday    | Pacific Rim             | 45      | Midnight               | The Line                       | Rafaela Cortes    |
-| ch46.txt | 7    | Sunday    | Pacific Rim             | 46      | SigAlert               | The Rim                        | Manzanar Murakami |
+| ... | ...    | ...   | ...            | ...       | ...                | ...     | ...               |
 | ch47.txt | 7    | Sunday    | Pacific Rim             | 47      | To Die                 | Pacific Rim Auditorium         | Arcangel          |
 | ch48.txt | 7    | Sunday    | Pacific Rim             | 48      | Hour 25                | Into the Boxes                 | Buzzworm          |
 | ch49.txt | 7    | Sunday    | Pacific Rim             | 49      | American Express       | Mi Casa/Su Casa                | Bobby Ngu         |
@@ -109,7 +67,7 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### 2) Literature and Language in the 1990s and early 2000s
 
-* 
+A sample from the Corpus of Historical American English for these decades.
 
 ## Corpus Design
 
