@@ -52,12 +52,12 @@ All written work must be double-spaced, in 12-point Times New Roman font, with 1
 | Practicum assignments | 40% | Mondays at midnight |
 | Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
 | Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
-| Class participation | 15% | n/a |
-| Class project presentation**| 5%*** | Tues Jun 4
+| Class/Canvas participation | 15% | n/a |
+| Class project presentation\*| 5%** | Tues Jun 4
 
-** The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
+* The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
 
-***  As evaluated by the current postdocs of the Stanford Literary Lab.
+**  As evaluated by the current postdocs of the Stanford Literary Lab.
 
 ## Schedule
 
