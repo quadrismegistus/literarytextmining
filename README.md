@@ -255,6 +255,4 @@ While the faculty alone has the right and obligation to set academic requirement
 
 ### Acknowledgments
 
-This syllabus and these course materials are deeply indebted to David Bamman's [Applied Natural Language Procssing](https://github.com/quadrismegistus/literarytextmining_spring2019) course, from which I've sometimes taken whole sections with minimal adaptations.
-
-I have also looked
+This syllabus and these course materials are deeply indebted to those of David Bamman's [Applied Natural Language Procssing](https://github.com/quadrismegistus/literarytextmining_spring2019) course: hats off to David for making such great materials available.
