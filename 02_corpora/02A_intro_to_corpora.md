@@ -4,7 +4,7 @@
 
 Taken from the Latin for "body," a "corpus" [originally meant](http://www.oed.com.stanford.idm.oclc.org/view/Entry/41873?redirectedFrom=corpus#eid) the "body of a man or animal" (1440); in 1728 we find its literary meaning, as "the whole body of literature on any subject"; and by 1956 its linguistic one, as "body of written or spoken material upon which a linguistic analysis is based." 
 
-Today, a [corpus](https://en.wikipedia.org/wiki/Text_corpus) is a structured set of texts, and [corpus linguistics](https://en.wikipedia.org/wiki/Corpus_linguistics) is the empirical study of real-world language, whether written or spoken, as collected into corpora.
+A [corpus](https://en.wikipedia.org/wiki/Text_corpus) is a structured set of texts, and [corpus linguistics](https://en.wikipedia.org/wiki/Corpus_linguistics) is the empirical study of real-world language, whether written or spoken, as collected into corpora.
 
 A corpus is more than the sum of its parts: it not only includes texts but also knows something about them. In other words, it combines text data with **metadata**: data about data.
 
@@ -32,7 +32,11 @@ The Brown corpus includes 500 texts, all published in 1961. From each text it ta
 * P. FICTION: ROMANCE (29 texts)
 * R. HUMOR (9 texts)
 
-In doing so, the Brown corpus enables cross-categorical comparison as well as a greater robustness to generalizations about "present-day American English." More comprehensive information about the corpus can be found in the [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM).
+In doing so, the Brown corpus enables cross-categorical comparison as well as a greater robustness to generalizations about "present-day American English."
+
+The Brown Corpus is therefore not a random assortment of snippets of language, but was carefully curated in order to allow the answering of specific research questions about language.
+
+More comprehensive information about the corpus can be found in the [Brown Corpus Manual](http://clu.uni.no/icame/manuals/BROWN/INDEX.HTM).
 
 ### Other Linguistic Corpora
 
@@ -46,34 +50,32 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### Literary Corpora
 
-| Corpus           | range     | num_words     | num_texts | desc                                                                             |
-|------------------|-----------|---------------|-----------|----------------------------------------------------------------------------------|
-| ESTC             | 1473-1900 | n/a*          | 481,711   | English Short Title Catalogue                                                    |
-| ChadwyckPoetry   | 1473-2000 | ?**           | 336,180   | Chadwyck-Healey Poetry Collections                                               |
-| EEBO_TCP         | 1474-1699 | 518,681,217   | 56,351    | Early English Books Online (curated by the Text Creation Partnership)            |
-| ChadwyckDrama    | 1522-2004 | 72,867,097    | 6,550     | Chadwyck-Healey Drama Collections                                                |
-| EnglishDialogues | 1560-1759 | 825,458       | 177       | A Corpus of English Dialogues, 1560-1760                                         |
-| Chadwyck         | 1582-1899 | 124,116,685   | 1,338     | Chadwyck-Healey Fiction Collections                                              |
-| LitLab           | 1671-2011 | 658,305,023   | 5,411     | Literary Lab Corpus of 18th and 19th Century Novels                              |
-| BPO              | 1681-1899 | ?**           | 3,167,399 | British Periodicals Online                                                       |
-| ECCO_LitLang     | 1700-1799 | 2,512,630,124 | 43,207    | Eighteenth Century Collections Online (Literature and Language section)          |
-| ECCO             | 1700-1799 | ?**           | 154,924   | Eighteenth Century Collections Online                                            |
-| ECCO_TCP         | 1701-1800 | 84,903,280    | 2,387     | Eighteenth Century Collections Online (curated by the Text Creation Partnership) |
-| TedJDH           | 1701-1899 | 231,245,243   | 3,778     | Corpus used by Ted Underwood in the 2012 Journal of Digital Humanities piece     |
-| CLMET            | 1710-1920 | 32,790,876    | 333       | Corpus of Late Modern English Texts                                              |
-| Spectator        | 1711-1714 | ?**           | 842       | The Spectator (1711-1714)                                                        |
-| OldBailey        | 1720-1913 | 22,594,354    | 637       | Old Bailey Online                                                                |
-| RavenGarside     | 1750-1829 | n/a*          | 5,087     | Raven & Garside's Bibliography of English Novels, 1770-1830                      |
-| Sellars          | 1800-1899 | 137,648,624   | 1,590     | 19th Century Texts compiled by Jordan Sellars                                    |
-| COHA             | 1810-2009 | 378,062,011   | 116,599   | Corpus of Historical American English                                            |
-| DialNarr         | 1825-1945 | ?**           | 1,918     | Separated Dialogue and Narration Portions of Chadwyck-Healey Novels              |
-| GildedAge        | 1875-1905 | 26,690,232    | 334       | U.S. Fiction of the Gilded Age                                                   |
-| Chicago          | 1880-2000 | ?**           | 9,089     | The University of Chicago Corpus of Twentieth Century Novels                     |
-| MarkMark         | 1881-2011 | 56,366,062    | 355       | Mark Algee-Hewitt's and Mark McGurl's 20th Century Corpus                        |
+Here are some literary corpora to which we have access. (If you need to see texts from these corpora to [build your corpus](02B_building_a_corpus.md), message me.)
 
-\* This corpus is a bibliography only, so it has metadata without texts.
-
-** Not yet calculated for some reason.
+| Corpus           | Genres            | range     | num_texts | desc                                                                             |
+|------------------|-------------------|-----------|-----------|----------------------------------------------------------------------------------|
+| ESTC             | Bibliography      | 1473-1900 | 481,711   | English Short Title Catalogue                                                    |
+| ChadwyckPoetry   | Poetry            | 1473-2000 | 336,180   | Chadwyck-Healey Poetry Collections                                               |
+| EEBO_TCP         | Multiple          | 1474-1699 | 56,351    | Early English Books Online (curated by the Text Creation Partnership)            |
+| ChadwyckDrama    | Drama             | 1522-2004 | 6,550     | Chadwyck-Healey Drama Collections                                                |
+| EnglishDialogues | Dialogues         | 1560-1759 | 177       | A Corpus of English Dialogues, 1560-1760                                         |
+| Chadwyck         | Fiction           | 1582-1899 | 1,338     | Chadwyck-Healey Fiction Collections                                              |
+| LitLab           | Fiction           | 1671-2011 | 5,411     | Literary Lab Corpus of 18th and 19th Century Novels                              |
+| BPO              | Periodicals       | 1681-1899 | 3,167,399 | British Periodicals Online                                                       |
+| ECCO_LitLang     | Multiple          | 1700-1799 | 43,207    | Eighteenth Century Collections Online (Literature and Language section)          |
+| ECCO             | Multiple          | 1700-1799 | 154,924   | Eighteenth Century Collections Online                                            |
+| ECCO_TCP         | Multiple          | 1701-1800 | 2,387     | Eighteenth Century Collections Online (curated by the Text Creation Partnership) |
+| TedJDH           | Multiple          | 1701-1899 | 3,778     | Corpus used by Ted Underwood in the 2012 Journal of Digital Humanities piece     |
+| CLMET            | Multiple          | 1710-1920 | 333       | Corpus of Late Modern English Texts                                              |
+| Spectator        | Periodicals       | 1711-1714 | 842       | The Spectator (1711-1714)                                                        |
+| OldBailey        | Court Transcripts | 1720-1913 | 637       | Old Bailey Online                                                                |
+| RavenGarside     | Bibliography      | 1750-1829 | 5,087     | Raven & Garside's Bibliography of English Novels, 1770-1830                      |
+| Sellars          | Multiple          | 1800-1899 | 1,590     | 19th Century Texts compiled by Jordan Sellars                                    |
+| COHA             | Multiple/Balanced | 1810-2009 | 116,599   | Corpus of Historical American English                                            |
+| DialNarr         | Fiction           | 1825-1945 | 1,918     | Separated Dialogue and Narration Portions of Chadwyck-Healey Novels              |
+| GildedAge        | Fiction           | 1875-1905 | 334       | U.S. Fiction of the Gilded Age                                                   |
+| Chicago          | Fiction           | 1880-2000 | 9,089     | The University of Chicago Corpus of Twentieth Century Novels                     |
+| MarkMark         | Fiction           | 1881-2011 | 355       | Mark Algee-Hewitt's and Mark McGurl's 20th Century Corpus                        |
 
 
 ## Our Class Corpora
@@ -92,7 +94,7 @@ This is the "metadata" mediated to us in the first few pages of the book, by the
 | ch48.txt | 7    | Sunday    | Pacific Rim             | 48      | Hour 25                | Into the Boxes                 | Buzzworm          |
 | ch49.txt | 7    | Sunday    | Pacific Rim             | 49      | American Express       | Mi Casa/Su Casa                | Bobby Ngu         |
 
-This metadata is [in our repository](corpora/tropic_of_orange/metadata.xls), as well as [on Google Drive]. As we read, we will collaboratively expand our corpus metadata.
+This metadata is [in our repository](corpora/tropic_of_orange/metadata.xls), as well as [on Google Drive](https://docs.google.com/spreadsheets/d/1cRmrwQmq2HuA-cb_mQYGGau40AO9fAROqRUK4EKKoJ4/edit?usp=sharing). As we read, we will collaboratively expand our corpus metadata.
 
 
 ### 2) Literature and Language in the 1990s

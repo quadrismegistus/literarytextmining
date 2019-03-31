@@ -2,7 +2,7 @@
 
 *Note: This text adapted from Marissa Gemma's guide, ["Preparing texts for Python."](https://github.com/quadrismegistus/python-dighum/wiki/Preparing-texts-for-Python)*
 
-## Introduction
+## Question + Corpus
 
 If you have a DH project in mind, you probably already have an idea of which texts you'll want to study. This group of texts to analyze is called a corpus; librarians, linguists, and lots of other researchers have been using corpora for years to analyze large amounts of (usually textual) data. (Some famous examples can be found here, here, and here.)
 
