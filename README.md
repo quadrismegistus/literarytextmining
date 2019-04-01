@@ -114,7 +114,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 * Learn the basics of terminal navigation
 * Learn how to read and write files from the terminal
-* [**To practice**: Complete the Terminal Maze Quest!](01_setup/1C_the_terminal_TODO)
+* [**To practice**: Complete the Terminal Maze quest!](01_setup/1C_the_terminal_TODO)
 
 
 ### (2) Corpora
