@@ -1,21 +1,8 @@
 # (2B) Building a corpus
 
-This notebook describes the pragmatics of building a corpus. See [the previous module](2A_intro_to_corpora.md#A-corpus-is-a-question) for reflections on corpus philosophy.
+This notebook describes the pragmatics of building a corpus. See [the previous module](2A_intro_to_corpora.md#A-corpus-is-a-question) for reflections on corpus design.
 
 *Note: This notebook is adapted from Marissa Gemma's guide, ["Preparing texts for Python."](https://github.com/quadrismegistus/python-dighum/wiki/Preparing-texts-for-Python)*
-
-## Corpus design
-
-### Principles of corpus design
-
-[See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
-
-### Common corpus structures
-
-<center><img src="figures/figure.nltk_book_ch2_fig1_3.text-corpus-structure.png"></center>
-<small>[NLTK Book, Chapter 2, Figure 1.3](https://www.nltk.org/book/ch02.html): "Common Structures for Text Corpora: The simplest kind of corpus is a collection of isolated texts with no particular organization; some corpora are structured into categories like genre (Brown Corpus); some categorizations overlap, such as topic categories (Reuters Corpus); other corpora represent language use over time (Inaugural Address Corpus)."</small>
-
-
 
 ## How to build a corpus
 

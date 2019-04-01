@@ -207,5 +207,15 @@ What does a corpus represent? What can we say of a corpus like "All Short Storie
 <small>2. If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.</small>
 </center>
 
+## Principles of corpus design
+
+[See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
+
+### Common corpus structures
+
+<center><img src="figures/figure.nltk_book_ch2_fig1_3.text-corpus-structure.png"></center>
+<small>[NLTK Book, Chapter 2, Figure 1.3](https://www.nltk.org/book/ch02.html): "Common Structures for Text Corpora: The simplest kind of corpus is a collection of isolated texts with no particular organization; some corpora are structured into categories like genre (Brown Corpus); some categorizations overlap, such as topic categories (Reuters Corpus); other corpora represent language use over time (Inaugural Address Corpus)."</small>
+
+
 
 ## Next: [(2B) Building a corpus](2B_building_a_corpus.md)
