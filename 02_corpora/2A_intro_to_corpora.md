@@ -222,4 +222,4 @@ From a statistical perspective, corpus design often aims to enable a motivated c
 [See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
 
 
-## Next: [(2B) Build a corpus](2B_build_a_corpus.md)
+## Next: [(2B) Building a corpus](2B_building_a_corpus.md)
