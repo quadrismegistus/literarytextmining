@@ -28,7 +28,7 @@ mkdir texts                   # make a folder to put your text files in
 
 #### What kind of text file?
 
-Python is picky about the kind of texts you feed it. You can't just throw PDFs, Microsoft Word docs, or even some kinds of .txt files at it--your program will break, and you'll have an unpleasant encoding problem on your hands. (For a quick primer on encoding and Unicode, read this; and though it's aimed at software developers, you might also be interested in this longer explanation.)
+Python is picky about the kind of texts you feed it. You can't just throw PDFs, Microsoft Word docs, or even some kinds of .txt files at it--your program will break, and you'll have an unpleasant encoding problem on your hands. (For a quick primer on encoding and Unicode, read this; and though it's aimed at software developers, you might also be interested in [this longer explanation](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/).)
 
 So what kinds of texts can you feed Python for your analysis? You will need plain text (.txt) files which all have the same kind of encoding, either UTF-8 or UTF-16. UTF-8 is a good bet for our purposes; when you save a plain text file from Project Gutenberg, for example, it is in UTF-8.
 

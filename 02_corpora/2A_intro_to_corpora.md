@@ -183,13 +183,6 @@ Which questions were able to be answered using this metadata?
 
 * **A:** <br/> <img src="figures/figure.mobydick.form_where_in_novel_by_para_too.png">
 
-----
-
-* Q: What kinds of paragraph types were there?
-
-* A: Interestingly, many mixed the essay and fictional modes:
-
-
 
 ## A corpus is a question
 
