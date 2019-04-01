@@ -50,39 +50,24 @@ For a fuller list, see the collaborative [Corpus Library](https://docs.google.co
 
 ### Literary Corpora
 
-Here are some literary corpora to which we have access. (If you need to see texts from these corpora to [build your corpus](2B_building_a_corpus.md), message me.)
+Here are some literary corpora to which we have access. See a more complete list in the next module, [(2B) Build a corpus](2B_building_a_corpus.md).
 
 | Corpus           | Genres            | range     | num_texts | desc                                                                             |
-|------------------|-------------------|-----------|-----------|----------------------------------------------------------------------------------|
-| ESTC             | Bibliography      | 1473-1900 | 481,711   | English Short Title Catalogue                                                    |
+|------------------|-------------------|-----------|-----------|----------------------------------------------------------------------------------|                                                  
 | ChadwyckPoetry   | Poetry            | 1473-2000 | 336,180   | Chadwyck-Healey Poetry Collections                                               |
 | EEBO_TCP         | Multiple          | 1474-1699 | 56,351    | Early English Books Online (curated by the Text Creation Partnership)            |
-| ChadwyckDrama    | Drama             | 1522-2004 | 6,550     | Chadwyck-Healey Drama Collections                                                |
-| EnglishDialogues | Dialogues         | 1560-1759 | 177       | A Corpus of English Dialogues, 1560-1760                                         |
 | Chadwyck         | Fiction           | 1582-1899 | 1,338     | Chadwyck-Healey Fiction Collections                                              |
-| LitLab           | Fiction           | 1671-2011 | 5,411     | Literary Lab Corpus of 18th and 19th Century Novels                              |
-| BPO              | Periodicals       | 1681-1899 | 3,167,399 | British Periodicals Online                                                       |
 | ECCO_LitLang     | Multiple          | 1700-1799 | 43,207    | Eighteenth Century Collections Online (Literature and Language section)          |
-| ECCO             | Multiple          | 1700-1799 | 154,924   | Eighteenth Century Collections Online                                            |
-| ECCO_TCP         | Multiple          | 1701-1800 | 2,387     | Eighteenth Century Collections Online (curated by the Text Creation Partnership) |
-| TedJDH           | Multiple          | 1701-1899 | 3,778     | Corpus used by Ted Underwood in the 2012 Journal of Digital Humanities piece     |
-| CLMET            | Multiple          | 1710-1920 | 333       | Corpus of Late Modern English Texts                                              |
-| Spectator        | Periodicals       | 1711-1714 | 842       | The Spectator (1711-1714)                                                        |
 | OldBailey        | Court Transcripts | 1720-1913 | 637       | Old Bailey Online                                                                |
-| RavenGarside     | Bibliography      | 1750-1829 | 5,087     | Raven & Garside's Bibliography of English Novels, 1770-1830                      |
-| Sellars          | Multiple          | 1800-1899 | 1,590     | 19th Century Texts compiled by Jordan Sellars                                    |
-| COHA             | Multiple/Balanced | 1810-2009 | 116,599   | Corpus of Historical American English                                            |
 | DialNarr         | Fiction           | 1825-1945 | 1,918     | Separated Dialogue and Narration Portions of Chadwyck-Healey Novels              |
-| GildedAge        | Fiction           | 1875-1905 | 334       | U.S. Fiction of the Gilded Age                                                   |
 | Chicago          | Fiction           | 1880-2000 | 9,089     | The University of Chicago Corpus of Twentieth Century Novels                     |
-| MarkMark         | Fiction           | 1881-2011 | 355       | Mark Algee-Hewitt's and Mark McGurl's 20th Century Corpus                        |
 
 
 ## Our Class Corpora
 
 ### 1) The 49 Chapters of Karen Yei Tamashita's *Tropic of Orange* (1997)
 
-This is the "metadata" mediated to us in the first few pages of the book, by the table of contents for all information except the narrator, whose threaded reappearances are marked in a separate table.
+This is the "metadata" given to us right away in the first few pages of the book. The table of contents records all of the following information except the narrator, whose patterned reappearances are marked in a separate table.
 
 | fn       | part | part_day  | part_title              | chapter | chapter_title          | setting                        | narrator          |
 |----------|------|-----------|-------------------------|---------|------------------------|--------------------------------|-------------------|
@@ -96,6 +81,9 @@ This is the "metadata" mediated to us in the first few pages of the book, by the
 
 This metadata is [in our repository](corpora/tropic_of_orange/metadata.xls), as well as [on Google Drive](https://docs.google.com/spreadsheets/d/1cRmrwQmq2HuA-cb_mQYGGau40AO9fAROqRUK4EKKoJ4/edit?usp=sharing). As we read, we will collaboratively expand our corpus metadata.
 
+#### Discussion
+
+What kinds of questions would this corpus enable, as-is? Which pieces of metadata allow for meaningful literary critical questions?
 
 ### 2) Literature and Language in the 1990s
 
@@ -110,6 +98,114 @@ A sample from the Corpus of Historical American English.
 | Markar Melkonian         | Richard Rorty's Politics: Liberalism at the End of the American Century | 1999 | Non-Fiction | Humanity Books, Amherst                                 | 38042     | 98%          | 773781 |
 | Gregory N. Derry         | What Science is and How it Works                                        | 1999 | Non-Fiction | Princeton University Press, Princeton, NJ               | 23576     | 99%          | 773819 |
 | Marcia B. Baxter Magolda | Creating Contexts for Learning and Self-Authorship                      | 1999 | Non-Fiction | Vanderbuilt University Press, Nashville                 | 21125     | 99%          | 773549 |
+
+#### Discussion
+
+What kinds of questions would this corpus enable?
+
+### Deep Reading (Corpora)
+
+These critical questions are interesting, if limited. What other meaningful categories is our metadata missing?
+
+How can we "deep read" the novel, annotating its form and 
+
+
+## Example project: *Moby-Dick* and Essayism
+
+In a seminar paper I wrote in 2014, I was interested in analyzing the infamous tension in Herman Melville's *Moby-Dick* between its chapters of exciting story (hunting through the entire ocean! to kill a single whale! for revenge!) and the dense, encyclopedic chapters (describing whale anatomy and blubber). I wanted to produce data that would let me answer questions like:
+
+* Empirically, how linugistically different are these "fiction" and "essay" chapters? What does corpus linguistics, which studies fictional and essay "registers" (e.g. in the Brown corpus) in the world, have to say about how these registers function *inside the novel?*
+
+* Which linguistic features are most strongly associated with "fiction" or "essay" chapters?
+
+* Is the chapter the right unit for this linguistic contrast, or are "fiction" and "esay" linguistic *modes* that alternate more fluidly and independently of chapters?
+
+As I read the book, I ended up annotating this information ([and more]()):
+
+
+| fn      | Chapter                             | Form          | Dialogue | Network                                                                                                                                          |
+|---------|-------------------------------------|---------------|----------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| 003.txt | CHAPTER 1. Loomings.                | Essay/Fiction | No       | Ishmael                                                                                                                                          |
+| 004.txt | CHAPTER 2. The Carpet-Bag.          | Fiction       | No       | Ishmael                                                                                                                                          |
+| 005.txt | CHAPTER 3. The Spouter-Inn.         | Fiction       | Yes      | Ishmael<>PeterCoffin; Bulkington; Queequeg; Queequeg>Ishmael                                                                                     |
+| …       | …                                   | …             | …        | …                                                                                                                                                |
+| 134.txt | CHAPTER 132. The Symphony.          | Fiction       | Yes      | Ahab<>Starbuck; Ahab>Ahab                                                                                                                        |
+| 135.txt | CHAPTER 133. The Chase--First Day.  | Fiction       | Yes      | Ahab<>Daggoo; Ahab<>Tashtego; Stubb<>Ahab; Stubb<>Starbuck                                                                                       |
+| 136.txt | CHAPTER 134. The Chase--Second Day. | Fiction       | Yes      | Ahab>Mastheads; Stubb>Stubb; Ahab<>Starbuck; Carpenter>Ahab; Stubb<>Ahab                                                                         |
+| 137.txt | CHAPTER 135. The Chase--Third Day.  | Fiction       | Yes      | Ahab<>Mastheads; Starbuck>Starbuck; Ahab<>Starbuck; Ahab>Moby-Dick; Ahab<>AhabCrew; Ahab>Fedallah; Ahab<>Flask; Ahab>Tashtego; AhabCrew>AhabCrew |
+| 138.txt | Epilogue                            | Fiction       | No       | Ishmael                                                                                                                                          |
+
+### Questions answered
+
+Which questions were able to be answered using this metadata?
+
+#### Questions answered using metadata about chapter genre
+
+* **Q:** How many essay chapters are there vs. how many fiction chapters?
+
+* **A:** <br/><img src="figures/figure.mobydick.form_counts.png">
+
+----
+
+* **Q:** Where in the novel do they take place?
+
+* **A:** <br/><img src="figures/figure.mobydick.form_where_in_novel.png">
+
+----
+
+#### Questions answered using metadata about characters
+
+* **Q:** When are characters most prevalent in the novel? Do character trends show a division of the novel into thirds, as is sometimes argued?
+
+* **A:** <br/><img src="figures/figure.mobydick.num_appearances.png">
+
+----
+
+* **Q:** What social network do the characters form, using annotated interactions?
+
+* **A:** <br/><img src="figures/figure.mobydick.social_network.png">
+
+
+#### Questions answered using text mining in addition to metadata
+
+* **Q:** Which linguistic feature best distinguishes fiction from essay chapters?
+
+* **A:** Prevalence of past tense marked fiction; a prevalence of present tense marked the essay.
+
+	* % Verbs past tense:<br/><img src="figures/figure.mobydick.aov_past_tense.png" width=500>
+	* % Verbs present tense:<br/><img src="figures/figure.mobydick.aov_present_tense.png" width=500>
+
+----
+
+* Q: Is the chapter the right unit for this linguistic contrast, or are "fiction" and "esay" linguistic *modes* that alternate more fluidly and independently of chapters?
+
+* **Q:** Where are past and present tense verbs—the linguistic markers of fiction and essay chapters—prevalent in *paragraphs* of the novel, irrespective of their chapter type?
+
+* **A:** <br/> <img src="figures/figure.mobydick.form_where_in_novel_by_para_too.png">
+
+----
+
+* Q: What kinds of paragraph types were there?
+
+* A: Interestingly, many mixed the essay and fictional modes:
+
+
+
+## A corpus is a question
+
+Every corpus asks a question. When designing a corpus, keep this in mind as the central principle.
+
+This means that no corpus is neutral. If a corpus is a question, it keeps with it the circumstances of its asking. It has a desire to it, a goal, even if vague.
+
+This also means that the creation of a corpus is a social and political act. ["Raw" data is an oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron): every corpus is shaped by human choices in a specific social environment.
+
+When a corpus asks a question, who's included in that question? Who's excluded? 
+
+Who is represented in the corpus? Who is erased?<sup>1</sup>
+
+
+
+<small><sup>1</sup>: See Lauren Klein, </small>
 
 ## Corpus Design
 
