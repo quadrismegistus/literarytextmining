@@ -15,14 +15,14 @@ What happens when computers read Shakespeare? What can digital methods tell us a
 
 This course is an introduction to the theories and methods of computational literary studies. It presumes no background in programming, computer science, or literary criticism. Students will begin with the building blocks of the Python programming language before moving on to more complex analyses of literary texts. Students will learn a variety of ways to discover patterns in textual data, visualize these patterns, and present them as part of a broader literary critical argument.
 
-We will progress through several modules of classes, each representing a distinct, and perhaps broader, domain of literary language: from words, to sentence syntax, to narratorial style, to character-spaces, to semantics and thematics, and finally to genres and the broader literary field. At the same time, throughout the course we will read one novel, Karen Yei Tamashita’s Tropic of Orange (1997), which rapidly alternates among narrators, styles, plots, and settings—a formal experimentation we will try to model computationally, while also reflecting on what aspects of the novel elude such methods of analysis.
+We will progress through several modules of classes which range across domains of literary language: from words, to sentence syntax, to narratorial style, to character-spaces, to semantics and thematics, and finally to genres and the broader literary field. At the same time, throughout the course we will read one novel, Karen Yei Tamashita’s *Tropic of Orange* (1997), which rapidly alternates among narrators, styles, plots, and settings, and at times flirting with magical realism—a formal experimentation we will try to model computationally, while also reflecting on what aspects of the novel elude such methods of analysis.
 
 ## Objectives
 
 Upon completing this course, students will be able to:
 
+* Digitize texts and create metadata in order to build a text corpus appropriate for a given literary critical question.
 * Distinguish between methods of computational literary studies, and identify the appropriate method for a given literary critical question.
-* Digitize texts and build corpora appropriate for a given literary critical question.
 * Program custom literary text analyses with the Python programming language, as well as call upon established tools and algorithms.
 * Analyze and visualize data to determine its impact on a literary critical question.
 * Deploy data and visualizations as part of a literary-critical argument.
@@ -33,19 +33,23 @@ All texts for this course will be accessible from Canvas, besides the novel we w
 
 * Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997)
 
-## Assignments
+## Evaluation
 
-Homework due at the beginning of each week will give students ample opportunity to practice the techniques learned in the course. In addition to homework and class participation, students’ grades will be assessed according to two major assignments: a midterm project, done individually, of a single “result” described (and optionally visualized) in a 2-4 page report; and a final project, done collaboratively in groups of 2-3 students, of a 10-12 page essay in which data analysis and visualization play a key argumentative role.
+* **Practicum homework (35%)**: Practicum homework due on Monday at midnight each week will give students ample opportunity to practice the techniques learned in the course. Every Monday the practicum homework assigned the previous Tuesday and Thursday is due. Responses will be submitted through Canvas. These will sometimes take the form of short written responses, for instance describing the logic behind your corpus design. These will sometimes be an uploaded Jupyter notebook for the practicum.
 
-* **In-class participation**: This class is part discussion seminar, part lab; it is not a lecture course. The content of the course therefore emerges organically from the interaction between all of us in the room. For this reason, both attendance and participation are required. Participation normally involves contributing spoken comments into the ongoing discussion within each class. If you struggle with this kind of involvement, please email me with your concerns, and we will work together to find a solution. Note: This class has a zero-tolerance policy for any and all forms of disrespect or harassment. You need not agree with anything said in this course, but your disagreement must be articulated with respect.
+* **Final project presentation (20%)**: A final project done collaboratively in groups of 2-3 students, which will be presented in 5 minutes during the last class. For this class we'll organize a "Literary Text Mining Undergraduate Conference," to which we'll invite department faculty, graduate, and undergraduate students to attend.
 
-* **Homework assignments**: …
+* **Class project presentation (5%)**: Throughout the class, we will work together as a "lab" on a literary text mining project centering on Karen Tei Yamashita's *Tropic of Orange**. We will delegate two to three students to present the results of this class project during our last class (the LTM Undergraduate Conference). This project and presentation will be evaluated by the associate directors of the Stanford Literary Lab.
 
-* **Final project and presentation**: …
+* **Final project mini-essay (20%) **: A short critical essay (5-7 pages) using the final project to make a critical argument. This can be the same argument given in the presentation, a corollary argument, or a completely new one. You can also write a close reading of literary texts using the data. Althoug the collaborative essence of the project will be given in the presentation, there is no substitute for writing, one of the most challenging and most personal of cognitive activities.
+
+* **In-class participation (20%)**: This class is part discussion seminar, part lab; it is not a lecture course. The content of the course therefore emerges organically from the interaction between all of us in the room. For this reason, both attendance and participation are required. Participation involves contributing spoken comments into the ongoing discussion within each class, as well as responses on the Canvas Help Forum (questions and answers valued equally). If you struggle with either kind of involvement, please email me with your concerns, and we will work together to find a solution. 
+
+*Note*: This class has a zero-tolerance policy for any and all forms of disrespect or harassment. You are not required agree with anything said in this course, but if you choose to articulate your disagreement, it must be articulated with respect.
 
 All written work must be double-spaced, in 12-point Times New Roman font, with 1 inch margins, and should conform to MLA citation and formatting conventions. Please refer to the MLA Handbook (8th ed.) and the MLA guide on the Purdue OWL website. Remember that anything that is not of your own invention, whether direct quotes or paraphrases, must be cited. If you have questions about when or how to cite, please contact me.
 
-## Evaluation
+### Summary
 
 | Component | Weight | Due date |
 | --------- | ------ | -------- |
@@ -57,7 +61,7 @@ All written work must be double-spaced, in 12-point Times New Roman font, with 1
 
 \* The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
 
-**  As evaluated by the current postdocs of the Stanford Literary Lab.
+**  As evaluated by the associate directors of the Stanford Literary Lab.
 
 ## Schedule
 
