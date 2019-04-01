@@ -131,7 +131,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * How to digitize texts
 * How to create metadata
 * How to structure corpus
-* [**To practice**: Build a corpus with at least 10 texts, supported by at least two actionable metadata columns](02_corpora/2B_building_a_corpus.md#Practicum)
+* [**To practice**: Create (the first draft of) your corpus](02_corpora/2B_building_a_corpus.md#Practicum)
 
 
 ### (3) Python 101 + Text Mining 101
