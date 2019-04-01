@@ -49,10 +49,10 @@ All texts for this course will be accessible from Canvas, besides the novel we w
 
 | Component | Weight | Due date |
 | --------- | ------ | -------- |
-| Practicum assignments | 40% | Mondays at midnight |
+| Practicum assignments | 35% | Mondays at midnight |
 | Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
 | Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
-| Class/Canvas participation | 15% | n/a |
+| Class/Canvas participation | 20% | n/a |
 | Class project presentation\*| 5%** | Tues Jun 4
 
 \* The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
