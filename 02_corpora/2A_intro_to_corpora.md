@@ -193,27 +193,42 @@ Which questions were able to be answered using this metadata?
 
 ## A corpus is a question
 
-Every corpus asks a question. When designing a corpus, keep this in mind as the central principle.
+Every corpus asks a question.
 
-This means that no corpus is neutral. If a corpus is a question, it keeps with it the circumstances of its asking. It has a desire to it, a goal, even if vague.
+### Politics of corpora
+
+No corpus is neutral. If a corpus is a question, it keeps with it the circumstances of its asking. It has a desire to it, a goal, even if vague.
 
 This also means that the creation of a corpus is a social and political act. ["Raw" data is an oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron): every corpus is shaped by human choices in a specific social environment.
 
 When a corpus asks a question, who's included in that question? Who's excluded? 
 
-Who is represented in the corpus? Who is erased?<sup>1</sup>
+Who is represented in the corpus? Who is erased? At the same time, a well-designed corpus can help to reveal who has been excluded.<sup>1</sup>
 
+<small>1. For a deeper exploration of these questions, see Lauren Klein, Klein, Lauren, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature, 85 (2014), 661–88](http://dx.doi.org/10.1215/00029831-2367310)”</small>
 
+### Philosophy of corpora
 
-<small><sup>1</sup>: See Lauren Klein, </small>
+What does a corpus represent? What can we say of a corpus like "All Short Stories published in the *New Yorker*" that we can't say of a corpus like "One Hundred Short Stories I Found By Googling"? Are both "Short Story" corpora?<sup>2</sup>
 
-## Corpus Design
+<small>2. If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.</small>
+
+### Statistics of corpora
+
+From a statistical perspective, corpus design often aims to enable a motivated comparison: fiction vs. non-fiction, for instance. The COHA corpus, for instance, balances the number of texts in each decade across fiction, non-fiction, newspapers, and magazines. 
+
+### Principles of corpus design
 
 [See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
 
+
+
+## Corpus Design
+
+
 ### Statistics
 
-From a statistical perspective, corpus design often aims to enable a motivated comparison: fiction vs. non-fiction, for instance. The COHA corpus, for instance, balances the number of texts in each decade across fiction, non-fiction, newspapers, and magazines. 
+
 
 ### Politics
 
@@ -221,6 +236,6 @@ Can a corpus be feminist? Can it be misogynist? How do we respond to issues of r
 
 ### Representativeness
 
-What does a corpus represent? What can we say of a corpus like "All Short Stories published in the *New Yorker*" that we can't say of a corpus like "One Hundred Short Stories I Found By Googling"? Are both "Short Story" corpora?
 
-(If you're interested, for more on these questions see Katherine Bode's recent article, ["The Equivalence of Close and Distant Reading"](https://read-dukeupress-edu.stanford.idm.oclc.org/modern-language-quarterly/article/78/1/77/19924/The-Equivalence-of-Close-And-Distant-Reading-Or), which makes a strong case for taking these questions extremely seriously.)
+
+
