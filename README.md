@@ -67,7 +67,6 @@ Abbreviations:
 
 * *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
-
 | Week | Class | Day | Date | Topic                                                                       | Class modules                                                                                         | Practicum due                                                                                                          | Reading due                      |
 |------|-------|-----|------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|----------------------------------|
 | 1    | 1     | T   | 4/2  | [(1) Setup](#1-Setup)                                                       | (1A) Class introduction; [(1B) Installation](#1B-Installation); [(1C) The Terminal](#1C-The-Terminal) |                                                                                                                        |                                  |
@@ -79,17 +78,16 @@ Abbreviations:
 | 4    | 7     | T   | 4/23 | [(4) Corpus Mining](#4-Corpus-Mining)                                       | [(4A) Pandas and the dataframe](#4A-Pandas-and-the-dataframe)                                         | [(3D) Lists and words](#3D-Lists-and-words); [(3E) Dictionaries and word counts](#3E-Dictionaries-and-word-counts)     |                                  |
 |      | 8     | Th  | 4/25 |                                                                             | [(4B) Comparing word counts](#4B-Comparing-word-counts)                                               |                                                                                                                        | *ToO*, 85-118 [“Wednesday”]      |
 | 5    | 9     | T   | 4/30 |                                                                             | [(4C) Visualizing word counts](#4C-Visualizing-word-counts)                                           | [(4A) Pandas and the dataframe](#4A-Pandas-and-the-dataframe); [(4B) Comparing word counts](#4B-Comparing-word-counts) |                                  |
-|      | 10    | Th  | 5/2  | [(5) Natural language processing (NLP)](#5-Natural-language-processing-NLP) | [(5A) Part of speech tagging](#5A-Part-of-speech-tagging)                                             |                                                                                                                        | *ToO*, 119-150 [“Thursday”]      |
-| 6    | 11    | T   | 5/7  |                                                                             | [(5B) Literary Geography](#5B-Literary-Geography)                                                     | [(4C) Visualizing word counts](#4C-Visualizing-word-counts)                                                            |                                  |
-|      | 12    | Th  | 5/9  | [(6) Social network analysis](#6-Social-network-analysis)                   | [(6A) Introduction to networks](#6A-Introduction-to-networks)                                         |                                                                                                                        | *ToO*, 151-180 [“Friday”]        |
-| 7    | 13    | T   | 5/14 |                                                                             | [(6B) Character networks](#6B-Character-networks)                                                     | [(5A) Part of speech tagging](#5A-Part-of-speech-tagging); [(5B) Literary Geography](#5B-Literary-Geography)           |                                  |
-|      | 14    | Th  | 5/16 | [(7) Content analysis](#7-Content-analysis)                                 | [(7A) Generating topic models](#7A-Generating-topic-models)                                           |                                                                                                                        | *ToO*, 181-208 [“Saturday”]      |
-| 8    | 15    | T   | 5/21 |                                                                             | [(7B) Reading topic models](#7B-Reading-topic-models)                                                 | [(6B) Character networks](#6B-Character-networks)                                                                      |                                  |
-|      | 16    | Th  | 5/23 | [(8) Clustering](#8-Clustering)                                             | [(8A) Cluster analysis](#8A-Cluster-analysis)                                                         |                                                                                                                        | *ToO*, 209-230 [“Sunday”]        |
-| 9    | 17    | T   | 5/28 |                                                                             | [(8B) Principal component analysis](#8B-Principal-component-analysis)                                 | [(7B) Reading topic models](#7B-Reading-topic-models)                                                                  |                                  |
+|      | 10    | Th  | 5/2  | [(5) Clustering](#8-Clustering)                                             | [(5A) Cluster analysis](#5A-Cluster-analysis)                                                         |                                                                                                                        | *ToO*, 119-150 [“Thursday”]      |
+| 6    | 11    | T   | 5/7  |                                                                             | [(5B) Principal component analysis](#5B-Principal-component-analysis)                                 | [(4C) Visualizing word counts](#4C-Visualizing-word-counts)                                                            |                                  |
+|      | 12    | Th  | 5/9  | [(6) Natural language processing (NLP)](#6-Natural-language-processing-NLP) | [(6A) Part of speech tagging](#6A-Part-of-speech-tagging)                                             |                                                                                                                        | *ToO*, 151-180 [“Friday”]        |
+| 7    | 13    | T   | 5/14 |                                                                             | [(6B) Literary Geography](#6B-Literary-Geography)                                                     | [(5B) Principal component analysis](#5B-Principal-component-analysis)                                                  |                                  |
+|      | 14    | Th  | 5/16 | [(7) Social network analysis](#7-Social-network-analysis)                   | [(7A) Introduction to networks](#7A-Introduction-to-networks)                                         |                                                                                                                        | *ToO*, 181-208 [“Saturday”]      |
+| 8    | 15    | T   | 5/21 |                                                                             | [(7B) Character networks](#7B-Character-networks)                                                     | [(6A) Part of speech tagging](#6A-Part-of-speech-tagging); [(6B) Literary Geography](#6B-Literary-Geography)           |                                  |
+|      | 16    | Th  | 5/23 | [(8) Content analysis](#8-Content-analysis)                                 | [(8A) Generating topic models](#8A-Generating-topic-models)                                           |                                                                                                                        | *ToO*, 209-230 [“Sunday”]        |
+| 9    | 17    | T   | 5/28 |                                                                             | [(8B) Reading topic models](#8B-Reading-topic-models)                                                 | [(7B) Character networks](#7B-Character-networks)                                                                      |                                  |
 |      | 18    | Th  | 5/30 | Final preparations                                                          |                                                                                                       |                                                                                                                        |                                  |
-| 10   | 19    | T   | 6/4  | Presentations!                                                              |                                                                                                       |                                                                                                                        |                                  |
-
+| 10   | 19    | T   | 6/4  | Presentations!                                                              |                                                                                                       | [(8B) Reading topic models](#8B-Reading-topic-models)                                                                  |                                  |
 
 
 ## Content
@@ -182,54 +180,56 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Matplotlib
 * Tableau
 
+### (5) Clustering
+#### (5A) Cluster analysis
+* Hierarchical clustering
+* Kmeans clustering
 
-### (5) Natural language processing (NLP)
+#### (5B) Principal component analysis
+* PCA and multivariate analysis
+* Color by cluster
+* **To practice**: Make a PCA or cluster visualization of your corpus
 
-#### (5A) Part of speech tagging
+
+### (6) Natural language processing (NLP)
+
+#### (6A) Part of speech tagging
 * Part of speech analysis
 * Lemmatizing
 * Named Entity Recognition
 * **To practice**: Part-of-speech tag your corpus
 
-#### (5B) Literary Geography
+#### (6B) Literary Geography
 * Named Entity Recognition continued
 * Mapping places
 * **To practice**: Map some of the place entities in your corpus
 
 
-### (6) Social network analysis
+### (7) Social network analysis
 
-#### (6A) Introduction to networks
+#### (7A) Introduction to networks
 * Introduction to social network analysis
 * NetworkX
 * Draw social media networks
 
-#### (6B) Character networks
+#### (7B) Character networks
 * BookNLP
 * Drawing social networks in texts
 * **To practice**: Draw social networks for your own corpus
 
 
-### (7) Content analysis
-#### (7A) Generating topic models
+### (8) Content analysis
+#### (8A) Generating topic models
 * Generating topic models
 * Reading topic models
 
-#### (7B) Reading topic models
+#### (8B) Reading topic models
 * Reading output
 * Visualizing topic models
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
-### (8) Clustering
-#### (8A) Cluster analysis
-* Hierarchical clustering
-* Kmeans clustering
 
-#### (8B) Principal component analysis
-* PCA and multivariate analysis
-* Color by cluster
-* **To practice**: Make a PCA or cluster visualization of your corpus
 
 
 ### (9) Classification (machine learning)
