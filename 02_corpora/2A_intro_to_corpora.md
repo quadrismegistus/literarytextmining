@@ -222,20 +222,3 @@ From a statistical perspective, corpus design often aims to enable a motivated c
 [See here](https://ota.ox.ac.uk/documents/creating/dlc/chapter1.htm) for a more thorough discussion of the principles of corpus design from a corpus linguistics perspective.
 
 
-
-## Corpus Design
-
-
-### Statistics
-
-
-
-### Politics
-
-Can a corpus be feminist? Can it be misogynist? How do we respond to issues of representation in corpus design? Constructing corpora is a social and political act. ["Raw" data is an oxymoron](https://mitpress.mit.edu/books/raw-data-oxymoron): every corpus is shaped by human choices in a specific social environment.
-
-### Representativeness
-
-
-
-
