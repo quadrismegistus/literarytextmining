@@ -205,7 +205,7 @@ When a corpus asks a question, who's included in that question? Who's excluded?
 
 Who is represented in the corpus? Who is erased? At the same time, a well-designed corpus can help to reveal who has been excluded.<sup>1</sup>
 
-<small>1. For a deeper exploration of these questions, see Lauren Klein, Klein, Lauren, “[The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature, 85 (2014), 661–88](http://dx.doi.org/10.1215/00029831-2367310)”</small>
+<small>1. For a deeper exploration of these questions, see Lauren Klein, [“The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature, 85 (2014), 661–88](http://dx.doi.org/10.1215/00029831-2367310)”</small>
 
 ### Philosophy of corpora
 
