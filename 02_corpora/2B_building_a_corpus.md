@@ -95,8 +95,6 @@ As you're getting your texts together, think about what kind of other informatio
 
 ## Practicum
 
-### To do
-
 Create (the first draft of) your corpus.
 
 * Follow the instructions above.
