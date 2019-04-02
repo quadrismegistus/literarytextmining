@@ -9,6 +9,8 @@
 
 Follow the links on this page: [https://www.anaconda.com/distribution/](https://www.anaconda.com/distribution/)
 
+* *Note:* When asked, decline the installation of Microsoft VSCode.
+
 ### (2) Create new anaconda environment for this class
 
 1. Open the Terminal.
@@ -28,12 +30,7 @@ Follow the links on this page: [https://www.anaconda.com/distribution/](https://
 Paste into the Terminal:
 
 ```
-conda install nb_conda
-conda install nltk
-conda install spacy
-conda install scikit-learn
-conda install pandas
-conda install matplotlib
+conda install nb_conda nltk spacy scikit-learn pandas matplotlib
 ```
 
 ### (4) Install nltk modules
@@ -44,7 +41,7 @@ python -c "import nltk; nltk.download('words')"
 python -c "import nltk; nltk.download('maxent_ne_chunker')"
 ```
 
-### (4) Install spaCy English model
+### (5) Install spaCy English model
 
 ```
 python -m spacy download en
@@ -74,12 +71,11 @@ python -m spacy download en
 
 See here for a more in-depth introduction to Git/Github: [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-## Jupyters
+## Jupyter
 
 1. Navigate to the class repository: ```cd ~/literarytextmining```
 
 2. Activate Jupyter: ```jupyter lab```
-
 
 We'll be using Jupyter notebooks extensively in this class; if you're new to them, look over a tutorial like this one: [https://www.dataquest.io/blog/jupyter-notebook-tutorial/](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
