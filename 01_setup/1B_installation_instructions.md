@@ -16,6 +16,7 @@ Follow the links on this page: [https://www.anaconda.com/distribution/](https://
 1. Open the Terminal.
 	* On Mac, go to: Applications > Utilities > Terminal.
 	* On Windows: Start > All Programs > Accessories > Command Prompt
+		* Windows users: consider installing a better terminal app, like [cmder](https://cmder.net/).
 
 2. Type ```conda create --name ltm``` to create a new environment
 
