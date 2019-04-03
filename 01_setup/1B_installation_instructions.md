@@ -56,6 +56,19 @@ python -m spacy download en
 
 2. If you get an error, download and install git: [https://git-scm.com/download](https://git-scm.com/download)
 
+3. If you get this error:
+
+```
+'The "git" command requires the command line developer
+tools. Would you like to install the tools now?"
+```
+
+Type the following into the terminal:
+
+```
+sudo mv /usr/bin/git /usr/bin/git-system
+```
+
 ### (2) Clone class repository
 
 1. Navigate to your home folder (advanced: wherever you want): ```cd ~```
@@ -72,13 +85,7 @@ python -m spacy download en
 
 See here for a more in-depth introduction to Git/Github: [https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
-## Jupyter
 
-1. Navigate to the class repository: ```cd ~/literarytextmining```
-
-2. Activate Jupyter: ```jupyter lab```
-
-We'll be using Jupyter notebooks extensively in this class; if you're new to them, look over a tutorial like this one: [https://www.dataquest.io/blog/jupyter-notebook-tutorial/](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
 
 ## Tableau
 
