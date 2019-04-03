@@ -62,6 +62,8 @@ Here are some literary corpora to which we have access. See a more complete list
 | DialNarr         | Fiction           | 1825-1945 | 1,918     | Separated Dialogue and Narration Portions of Chadwyck-Healey Novels              |
 | Chicago          | Fiction           | 1880-2000 | 9,089     | The University of Chicago Corpus of Twentieth Century Novels                     |
 
+For a fuller list, see the "Literary Lab Holdings" sheet of the collaborative [Corpus Library](https://docs.google.com/spreadsheets/d/1DaM0b9ut03fQWkP6lcfbuUnTjyJzDEe3NtiDwHGGNo4/edit?usp=sharing).
+
 
 ## Our Class Corpora
 
@@ -198,7 +200,7 @@ When a corpus asks a question, who's included in that question? Who's excluded?
 
 Who is represented in the corpus? Who is erased? At the same time, a well-designed corpus can help to reveal who has been excluded.<sup>1</sup>
 
-<small>1. For a deeper exploration of these questions, see Lauren Klein, [“The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature, 85 (2014), 661–88](http://dx.doi.org/10.1215/00029831-2367310)”</small>
+<small>1. For a deeper exploration of these questions, see Lauren Klein, [“The Image of Absence: Archival Silence, Data Visualization, and James Hemings,” American Literature, 85 (2014), 661–88](http://dx.doi.org/10.1215/00029831-2367310)</small>
 
 ### Philosophy of corpora
 
