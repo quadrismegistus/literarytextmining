@@ -216,7 +216,7 @@ What does a corpus represent? What can we say of a corpus like "All Short Storie
 ### Common corpus structures
 
 <center><img src="figures/figure.nltk_book_ch2_fig1_3.text-corpus-structure.png"></center>
-<small>[NLTK Book, Chapter 2, Figure 1.3](https://www.nltk.org/book/ch02.html): "Common Structures for Text Corpora: The simplest kind of corpus is a collection of isolated texts with no particular organization; some corpora are structured into categories like genre (Brown Corpus); some categorizations overlap, such as topic categories (Reuters Corpus); other corpora represent language use over time (Inaugural Address Corpus)."</small>
+<small> [NLTK Book, Chapter 2, Figure 1.3](https://www.nltk.org/book/ch02.html): "Common Structures for Text Corpora: The simplest kind of corpus is a collection of isolated texts with no particular organization; some corpora are structured into categories like genre (Brown Corpus); some categorizations overlap, such as topic categories (Reuters Corpus); other corpora represent language use over time (Inaugural Address Corpus)."</small>
 
 
 
