@@ -54,7 +54,7 @@ python -m spacy download en
 
 1. Check if you already have git installed: ```git --version```
 
-2. If you get an error, download and install git: [https://git-scm.com/download](https://git-scm.com/download)
+2. If you get an error, download and install git: [https://git-scm.com/download](https://git-scm.com/download). Then try `git --version` again.
 
 3. If you get this error:
 
@@ -68,6 +68,8 @@ Type the following into the terminal:
 ```
 sudo mv /usr/bin/git /usr/bin/git-system
 ```
+
+And then try running `git --version` again.
 
 ### (2) Clone class repository
 
