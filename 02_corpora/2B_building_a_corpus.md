@@ -106,7 +106,7 @@ Create (the first draft of) your corpus.
 
 * Texts should be at least a paragraph long.
 
-* It must have at least two significant (question-enabling) metadata columns.
+* It must have at least two significant (question-enabling) metadata columns **which you have created.**
 
 * If you can't find all the .txt files, don't sweat it yet. Focus on the metadata and the principle behind it.
 
