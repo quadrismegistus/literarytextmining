@@ -1,5 +1,7 @@
 # (2B) Building a corpus
 
+Hey guys!
+
 This notebook describes the pragmatics of building a corpus. See [the previous module](2A_intro_to_corpora.md#A-corpus-is-a-question) for reflections on corpus design.
 
 *Note: This notebook is adapted from Marissa Gemma's guide, ["Preparing texts for Python."](https://github.com/quadrismegistus/python-dighum/wiki/Preparing-texts-for-Python)*
