@@ -73,7 +73,7 @@ Abbreviations:
 |      | 2     | Th  | 4/4  | [(2) Corpora](#2-Corpora)                                                   | [(2A) Intro to corpora](#2A-Introduction-to-corpora); [(2B) Building a corpus](#2B-Building-a-corpus) |                                                                                                                        | *ToO*, 7-25 [“Monday," ch. 1-3]  |
 | 2    | 3     | T   | 4/9  | [(3) Python 101 + Text Mining 101](#3-Python-101--Text-Mining-101)          | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                       | [(1C) The Terminal](#1C-The-Terminal); [(2B) Building a corpus](#2B-Building-a-corpus)                                 |                                  |
 |      | 4     | Th  | 4/11 |                                                                             | [(3C) Files and strings](#3C-Files-and-strings)                                                       |                                                                                                                        | *ToO*, 25-50 [“Monday," ch. 4-7] |
-| 3    | 5     | T   | 4/16 |                                                                             | [(3D) Lists and words](#3D-Lists-and-words)                                                           | [(3B) Baby Python](#03B-Baby-Python.ipynb); [(3C) Files and strings](#3C-Files-and-strings)                            |                                  |
+| 3    | 5     | T   | 4/16 |                                                                             | [(3D) Lists and words](#3D-Lists-and-words)                                                           | [(3B) Baby Python](#3B-Baby-Python.ipynb); [(3C) Files and strings](#3C-Files-and-strings)                            |                                  |
 |      | 6     | Th  | 4/18 |                                                                             | [(3E) Dictionaries and word counts](#3E-Dictionaries-and-word-counts)                                 |                                                                                                                        | *ToO*, 51-84 [“Tuesday"]         |
 | 4    | 7     | T   | 4/23 | [(4) Corpus Mining](#4-Corpus-Mining)                                       | [(4A) Pandas and the dataframe](#4A-Pandas-and-the-dataframe)                                         | [(3D) Lists and words](#3D-Lists-and-words); [(3E) Dictionaries and word counts](#3E-Dictionaries-and-word-counts)     |                                  |
 |      | 8     | Th  | 4/25 |                                                                             | [(4B) Comparing word counts](#4B-Comparing-word-counts)                                               |                                                                                                                        | *ToO*, 85-118 [“Wednesday”]      |
@@ -134,7 +134,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (3) Python 101 + Text Mining 101
 
-#### (3A) Jupyter Lab
+#### [(3A) Jupyter Lab](03_python/3A_jupyter_lab.md)
 
 #### (3B) Baby Python
 
