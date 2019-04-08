@@ -136,16 +136,16 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### [(3A) Jupyter Lab](03_python/3A_jupyter_lab.md)
 
-#### (3B) Baby Python
+#### [(3B) Baby Python](03_python/3B_baby_python.ipynb)
 
 * "Hello world"
 * Integers
 * Strings
 * Variables
-* If/Then
 
-#### (3C) Files and strings
+#### [(3C) Files and strings](03_python/3C_files_and_strings.ipynb)
 
+* String methods
 * Open text
 * String slice text
 * Functions
@@ -246,14 +246,14 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ## Appendix
 
-### Students with Documented Disabilities 
+### Students with Documented Disabilities
 Students who may need an academic accommodation based on the impact of a disability must initiate the request with the Office of Accessible Education (OAE).  Professional staff will evaluate the request with required documentation, recommend reasonable accommodations, and prepare an Accommodation Letter for faculty dated in the current quarter in which the request is being made. Students should contact the OAE as soon as possible since timely notice is needed to coordinate accommodations.
 
-OAE contact information: <br/>563 Salvatierra Walk
+OAE contact information:<br/>563 Salvatierra Walk
 <br/>650-723-1066
 <br/>[http://studentaffairs.stanford.edu/oae](http://studentaffairs.stanford.edu/oae)
  
-### Honor Code 
+### Honor Code
 The Honor Code is the University's statement on academic integrity written by students in 1921. It articulates University expectations of students and faculty in establishing and maintaining the highest standards in academic work: 
 The Honor Code is an undertaking of the students, individually and collectively:
 
@@ -264,5 +264,4 @@ The faculty on its part manifests its confidence in the honor of its students by
 While the faculty alone has the right and obligation to set academic requirements, the students and faculty will work together to establish optimal conditions for honorable academic work.
 
 ### Acknowledgments
-
 This syllabus and these course materials are deeply indebted to those of David Bamman's [Applied Natural Language Procssing](https://github.com/quadrismegistus/literarytextmining_spring2019) course: hats off to David for making such great materials available.
