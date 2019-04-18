@@ -165,7 +165,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 * **[(3D-1) Lists](03_python/3D-1_lists.ipynb)**
 	* What are lists?
-	* And how to use them
+	* Why and how to use them
 * **[(3D-2) Words](03_python/3D-2_words.ipynb)**
 	* Splitting texts into words (text as string -> text as list)
 	* Type-Token Ratio
