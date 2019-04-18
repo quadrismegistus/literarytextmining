@@ -174,6 +174,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 #### (3E) Dictionaries and word counts
 
 * Loops
+* Control flow (If/Else)
 * Dictionaries
 * Counting words (text as list -> word counts as dictionary)
 
