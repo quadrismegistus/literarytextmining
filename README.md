@@ -156,10 +156,10 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### [(3C) Files and strings](03_python/3C_files_and_strings.ipynb)
 
+* String slicing
 * String methods
-* Open text
-* String slice text
 * Functions
+* Opening text files
 
 #### (3D) Lists and words
 
