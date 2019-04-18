@@ -2,6 +2,7 @@
 .DS_Store
 #corpora/tropic_of_orange/texts
 corpora/coha_1990s
+corpora/my_corpus
 workspace
 drafts
 alternate_syllabi
