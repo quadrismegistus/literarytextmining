@@ -167,9 +167,9 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 	* What are lists?
 	* Why and how to use them
 * **[(3D-2) Words](03_python/3D-2_words.ipynb)**
-	* Splitting texts into words (text as string -> text as list)
+	* Tokenizing texts: from text strings to word lists
 	* Type-Token Ratio
-	* NLTK (concordance, dispersion)
+	* NLTK functions (concordances, dispersion plots)
 
 #### (3E) Dictionaries and word counts
 
