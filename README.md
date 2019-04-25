@@ -173,10 +173,12 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 #### (3E) Dictionaries and word counts
 
-* Loops
-* If/else
-* Dictionaries
-* Counting words (text as list -> word counts as dictionary)
+* **[(3E-1) Dictionaries](03_python/3E-1_dictionaries.ipynb)**
+	* If/else
+	* Dictionaries
+* **[(3E-2) Word Counts](03_python/3E-1_dictionaries.ipynb)**
+	* Loops
+	* Counting words (text as list -> word counts as dictionary)
 
 
 ### (4) Corpus Mining
