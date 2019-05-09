@@ -47,51 +47,30 @@ All texts for this course will be accessible from Canvas, besides the novel we w
 
 ### Summary
 
-| Component | Weight | Due date |
-| --------- | ------ | -------- |
-| Practicum assignments | 35% | Mondays at midnight |
-| Final project presentation (10 minutes; 2-3 person groups) | 20% | Tues Jun 4|
-| Final project mini-essay (5-10 pages; written individually) | 20% | Tues Jun 11 |
-| Class/Canvas participation | 20% | n/a |
-| Class project presentation\*| 5%** | Tues Jun 4
-
-\* The results of our classwork experiments on Karen Tei Yamashita's *Tropic of Orange*; the presenters will be delegated.
-
-**  As evaluated by the associate directors of the Stanford Literary Lab.
-
-## Schedule
-
-This schedule is subject to change.
-
-Abbreviations:
-
-* *ToO*: Karen Tei Yamashita, *Tropic of Orange* (Minneapolis: Coffee House Press, 1997). Page numbers are given for this edition.
 
 
 
-
-
-| Week | Class | Day | Date | Topic                                                              | Class modules                                                                                         | Practicum due                                                                               | Reading due                      |
-|------|-------|-----|------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|
-| 1    | 1     | T   | 4/2  | [(1) Setup](#1-Setup)                                              | (1A) Class introduction; [(1B) Installation](#1B-Installation); [(1C) The Terminal](#1C-The-Terminal) |                                                                                             |                                  |
-|      | 2     | Th  | 4/4  | [(2) Corpora](#2-Corpora)                                          | [(2A) Intro to corpora](#2A-Introduction-to-corpora); [(2B) Building a corpus](#2B-Building-a-corpus) |                                                                                             | *ToO*, 7-25 [“Monday," ch. 1-3]  |
-| 2    | 3     | T   | 4/9  | [(3) Python 101 + Text Mining 101](#3-Python-101--Text-Mining-101) | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                       | [(1C) The Terminal](#1C-The-Terminal); [(2B) Building a corpus](#2B-Building-a-corpus)      |                                  |
-|      | 4     | Th  | 4/11 |                                                                    | [(3C) Files and strings](#3C-Files-and-strings)                                                       |                                                                                             | *ToO*, 25-50 [“Monday," ch. 4-7] |
-| 3    | 5     | T   | 4/16 |                                                                    | [(3C) Files and strings](#3C-Files-and-strings) (cont'd)                                              | [(3B) Baby Python](#03B-Baby-Python.ipynb); [(3C) Files and strings](#3C-Files-and-strings) |                                  |
-|      | 6     | Th  | 4/18 |                                                                    | [(3D) Lists and words](#3D-Lists-and-words)                                                           |                                                                                             | *ToO*, 51-84 [“Tuesday"]         |
-| 4    | 7     | T   | 4/23 |                                                                    | [(3E) Dictionaries and word counts](#3E-Dictionaries-and-word-counts)                                 | [(3D) Lists and words](#3D-Lists-and-words)                                                 |                                  |
-|      | 8     | Th  | 4/25 |                                                                    | (cont'd)                                                                                              |                                                                                             | *ToO*, 85-118 [“Wednesday”]      |
-| 5    | 9     | T   | 4/30 | [(4) Corpus Mining](#4-Corpus-Mining)                              | [(4A) Pandas and the dataframe](#4A-Pandas-and-the-dataframe)                                         | Week 4 Practicum                                                                            |                                  |
-|      | 10    | Th  | 5/2  |                                                                    | (cont'd)                                                                                              |                                                                                             | *ToO*, 119-150 [“Thursday”]      |
-| 6    | 11    | T   | 5/7  |                                                                    | (cont'd)                                                                                              | Week 5 Practicum                                                                            |                                  |
-|      | 12    | Th  | 5/9  |                                                                    | (5A) Part of speech tagging; (5B) Literary Geography                                                  |                                                                                             | *ToO*, 151-180 [“Friday”]        |
-| 7    | 13    | T   | 5/14 |                                                                    | (6A) Correlation [Terms]; (6B) Most distinctive words                                                 |                                                                                             |                                  |
-|      | 14    | Th  | 5/16 |                                                                    | (6C) Clustering [Documents]                                                                           |                                                                                             | *ToO*, 181-208 [“Saturday”]      |
-| 8    | 15    | T   | 5/21 |                                                                    | (7A) Introduction to networks; (7B) Character networks                                                |                                                                                             |                                  |
-|      | 16    | Th  | 5/23 |                                                                    | (8A) Topic models                                                                                     |                                                                                             | *ToO*, 209-230 [“Sunday”]        |
-| 9    | 17    | T   | 5/28 |                                                                    | (9A) Logistic regression                                                                              |                                                                                             |                                  |
-|      | 18    | Th  | 5/30 | Presentation workshop                                              |                                                                                                       |                                                                                             |                                  |
-| 10   | 19    | T   | 6/4  | Presentations!                                                     |                                                                                                       |                                                                                             |                                  |
+| Week | Class | Day | Date | Topic                                                                       | Class modules                                                                                         | Practicum due                                                                               | Reading due                      |
+|------|-------|-----|------|-----------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|----------------------------------|
+| 1    | 1     | T   | 4/2  | [(1) Setup](#1-Setup)                                                       | (1A) Class introduction; [(1B) Installation](#1B-Installation); [(1C) The Terminal](#1C-The-Terminal) |                                                                                             |                                  |
+|      | 2     | Th  | 4/4  | [(2) Corpora](#2-Corpora)                                                   | [(2A) Intro to corpora](#2A-Introduction-to-corpora); [(2B) Building a corpus](#2B-Building-a-corpus) |                                                                                             | *ToO*, 7-25 [“Monday," ch. 1-3]  |
+| 2    | 3     | T   | 4/9  | [(3) Python 101 + Text Mining 101](#3-Python-101--Text-Mining-101)          | [(3A) Jupyter Lab](#3B-Jupyter-Lab); [(3B) Baby Python](#03B-Baby-Python.ipynb)                       | [(1C) The Terminal](#1C-The-Terminal); [(2B) Building a corpus](#2B-Building-a-corpus)      |                                  |
+|      | 4     | Th  | 4/11 |                                                                             | [(3C) Files and strings](#3C-Files-and-strings)                                                       |                                                                                             | *ToO*, 25-50 [“Monday," ch. 4-7] |
+| 3    | 5     | T   | 4/16 |                                                                             | [(3C) Files and strings](#3C-Files-and-strings) (cont'd)                                              | [(3B) Baby Python](#03B-Baby-Python.ipynb); [(3C) Files and strings](#3C-Files-and-strings) |                                  |
+|      | 6     | Th  | 4/18 |                                                                             | [(3D) Lists and words](#3D-Lists-and-words)                                                           |                                                                                             | *ToO*, 51-84 [“Tuesday"]         |
+| 4    | 7     | T   | 4/23 |                                                                             | [(3E) Dictionaries and word counts](#3E-Dictionaries-and-word-counts)                                 | [(3D) Lists and words](#3D-Lists-and-words)                                                 |                                  |
+|      | 8     | Th  | 4/25 |                                                                             | (cont'd)                                                                                              |                                                                                             | *ToO*, 85-118 [“Wednesday”]      |
+| 5    | 9     | T   | 4/30 | [(4) Corpus Mining](#4-Corpus-Mining)                                       | [(4A) Pandas and the dataframe](#4A-Pandas-and-the-dataframe)                                         | Week 4 Practicum                                                                            |                                  |
+|      | 10    | Th  | 5/2  |                                                                             | (cont'd)                                                                                              |                                                                                             | *ToO*, 119-150 [“Thursday”]      |
+| 6    | 11    | T   | 5/7  |                                                                             | (cont'd)                                                                                              | Week 5 Practicum                                                                            |                                  |
+|      | 12    | Th  | 5/9  | [(5) Natural language processing (NLP)](#5-Natural-language-processing-NLP) | [(5A) NLP Cookbook](#5A-NLP-Cookbook)                                                                 |                                                                                             | *ToO*, 151-180 [“Friday”]        |
+| 7    | 13    | T   | 5/14 |                                                                             |                                                                                                       |                                                                                             |                                  |
+|      | 14    | Th  | 5/16 |                                                                             |                                                                                                       |                                                                                             | *ToO*, 181-208 [“Saturday”]      |
+| 8    | 15    | T   | 5/21 |                                                                             |                                                                                                       |                                                                                             |                                  |
+|      | 16    | Th  | 5/23 |                                                                             |                                                                                                       |                                                                                             | *ToO*, 209-230 [“Sunday”]        |
+| 9    | 17    | T   | 5/28 |                                                                             |                                                                                                       |                                                                                             |                                  |
+|      | 18    | Th  | 5/30 | Presentation workshop                                                       |                                                                                                       |                                                                                             |                                  |
+| 10   | 19    | T   | 6/4  | Presentations!                                                              |                                                                                                       |                                                                                             |                                  |
 
 
 
@@ -191,16 +170,14 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (5) Natural language processing (NLP)
 
-#### (5A) Part of speech tagging
+#### [(5A) NLP Cookbook](05_nlp/5A_nlp_cookbook.ipynb)
+* textblob and NLP libraries
+* Sentence tokenization
 * Part of speech analysis
-* Lemmatizing
-* Named Entity Recognition
-* **To practice**: Part-of-speech tag your corpus
 
 #### (5B) Literary Geography
-* Named Entity Recognition continued
+* Named Entity Recognition
 * Mapping places
-* **To practice**: Map some of the place entities in your corpus
 
 
 ### (6) Document-term matrices
