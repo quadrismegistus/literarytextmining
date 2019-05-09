@@ -232,35 +232,25 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 #### (7A) Introduction to networks
 * Introduction to social network analysis
 * NetworkX
-* Markov model networks
+* Social networks from metadata
 * Visualizing networks
 
 #### (7B) Character networks
-* BookNLP
-* Drawing social networks in texts
-
+* Social networks from texts
+* [BookNLP](https://github.com/dbamman/book-nlp)
 
 ### (8) Content analysis
-#### (8A) Generating topic models
+#### (8A) Topic models
 * Generating topic models
 * Reading topic models
-
-#### (8B) Reading topic models
-* Reading output
 * Visualizing topic models
-* **To practice**: Topic model your corpus and write a brief discussion of two topics
 
 
 ### (9) Classification (machine learning)
-
-#### (9A) Intro to hypothesis testing
+#### (9A) Logistic regression
 * General classification framework
-
-#### (9B) Logistic regression
-* Classification continued
 * Logistic regression
-* **To practice**: Classify a type of text in your corpus
-
+* Visualizing uncertainty
 
 
 ## Appendix
