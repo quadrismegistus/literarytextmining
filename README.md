@@ -171,7 +171,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 ### (5) Natural language processing (NLP)
 
 #### [(5A) NLP Cookbook](05_nlp/5A_nlp_cookbook.ipynb)
-* textblob and NLP libraries
+* NLP libraries
 * Sentence tokenization
 * Part of speech analysis
 
