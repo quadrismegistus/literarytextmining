@@ -1,6 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
-#corpora/tropic_of_orange/texts
+corpora/tropic_of_orange/texts
 corpora/coha_1990s
 corpora/my_corpus
 corpora/harry_potter

@@ -183,43 +183,48 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 ### (4) Corpus Mining
 
-#### (4A) Pandas and the dataframe
+#### [(4A) Pandas and the dataframe](04_python/4A_pandas.ipynb)
 
 * Introduction to pandas
 * How to think and use dataframes
+* Pandas plotting
+* Save data from pandas
 
-#### (4B) Comparing word counts
-* Correlations
-* Most distinctive words
-* **To practice**: Find the distinctive words of a text in your corpus
+#### (4B) Tableau
+* Introduction to Tableau
 
-#### (4C) Visualizing word counts
-* Matplotlib
-* Tableau
+### (5) Natural language processing (NLP)
 
-### (5) Clustering
-#### (5A) Cluster analysis
-* Hierarchical clustering
-* Kmeans clustering
-
-#### (5B) Principal component analysis
-* PCA and multivariate analysis
-* Color by cluster
-* **To practice**: Make a PCA or cluster visualization of your corpus
-
-
-### (6) Natural language processing (NLP)
-
-#### (6A) Part of speech tagging
+#### (5A) Part of speech tagging
 * Part of speech analysis
 * Lemmatizing
 * Named Entity Recognition
 * **To practice**: Part-of-speech tag your corpus
 
-#### (6B) Literary Geography
+#### (5B) Literary Geography
 * Named Entity Recognition continued
 * Mapping places
 * **To practice**: Map some of the place entities in your corpus
+
+
+### (6) Document-term matrices
+
+#### (6A) Correlation [Terms]
+* Making a document-term matrix
+* Correlating features
+* Linear regression
+
+#### (6B) Most distinctive words
+* Contingency tables
+* Fisher's exact test
+* Statistical significance
+* Data mining
+
+#### (6C) Clustering [Documents]
+* Hierarchical clustering
+* Kmeans clustering
+* PCA and multivariate analysis
+* Color by cluster
 
 
 ### (7) Social network analysis
@@ -227,12 +232,12 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 #### (7A) Introduction to networks
 * Introduction to social network analysis
 * NetworkX
-* Draw social media networks
+* Markov model networks
+* Visualizing networks
 
 #### (7B) Character networks
 * BookNLP
 * Drawing social networks in texts
-* **To practice**: Draw social networks for your own corpus
 
 
 ### (8) Content analysis
@@ -244,9 +249,6 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Reading output
 * Visualizing topic models
 * **To practice**: Topic model your corpus and write a brief discussion of two topics
-
-
-
 
 
 ### (9) Classification (machine learning)
