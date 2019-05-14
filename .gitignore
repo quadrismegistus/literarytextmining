@@ -1,5 +1,6 @@
 .ipynb_checkpoints
 .DS_Store
+*.zip
 corpora/tropic_of_orange/texts
 corpora/coha_1990s
 corpora/my_corpus
