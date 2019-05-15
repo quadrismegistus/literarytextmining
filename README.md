@@ -175,7 +175,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Sentence tokenization
 * Part of speech analysis
 
-#### (5B) Literary Geography
+#### [(5B) Literary Geography](05_nlp/5B_named_entity_recognition.ipynb)
 * Named Entity Recognition
 * Mapping places
 
