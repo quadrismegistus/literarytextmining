@@ -179,6 +179,8 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 * Named Entity Recognition
 * Mapping places
 
+#### [(5C) Sentiment analysis](05_nlp/5C_sentiment_analysis.ipynb)
+
 
 ### (6) Document-term matrices
 
@@ -201,8 +203,7 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 
 
 ### (7) Social network analysis
-
-#### (7A) Introduction to networks
+#### [(7A) Introduction to networks](07_networks/7A_social_networks.ipynb)
 * Introduction to social network analysis
 * NetworkX
 * Social networks from metadata
@@ -211,6 +212,8 @@ Homework assignments (in **bold**) are due the following session unless otherwis
 #### (7B) Character networks
 * Social networks from texts
 * [BookNLP](https://github.com/dbamman/book-nlp)
+
+
 
 ### (8) Content analysis
 #### (8A) Topic models
