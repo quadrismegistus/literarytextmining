@@ -18,13 +18,9 @@ Follow the links on this page: [https://www.anaconda.com/distribution/](https://
 	* On Windows: Start > All Programs > Accessories > Command Prompt
 		* Windows users: consider installing a better terminal app, like [cmder](https://cmder.net/).
 
-2. Type ```conda create --name ltm``` to create a new environment
+2. Type ```python --version``` to check your python version. It should read: Python 3.7.1
 
-3. Type ```source activate ltm```
-
-4. Type ```python --version``` to check your python version. It should read: Python 3.7.1
-
-5. For more information on anaconda: [https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
+3. For more information on anaconda: [https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html](https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html)
 
 ### (3) Install supporting packages
 
